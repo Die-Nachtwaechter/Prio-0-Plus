@@ -142,8 +142,6 @@ function createTable(data, itemName){
     const wrapper = document.createElement("div");
     wrapper.classList.add("item-table-wrapper");
 
-    h3.textContent = itemName;
-
     const table = document.createElement("table");
     const thead = document.createElement("thead");
     const tbody = document.createElement("tbody");
