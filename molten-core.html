@@ -1,31 +1,26 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <title>Molten Core - Prio 0</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <title>Prio 0 Molten Core</title>
+    <link rel="stylesheet" href="molten-core.css" />
 </head>
-<body class="molten-core-page">
-  <header>
-    <h1>Prio 0 Molten Core</h1>
-    <div class="underline"></div>
-  </header>
-
-  <div class="mc-container">
-    <div class="sidebar">
-      <a href="index.html" class="back-arrow">←</a>
-    </div>
-
-    <div class="class-list">
-      <a href="#" class="class-button warrior">Krieger</a>
-      <a href="#" class="class-button mage">Magier</a>
-      <a href="#" class="class-button priest">Priester</a>
-      <a href="#" class="class-button rogue">Schurke</a>
-      <a href="#" class="class-button warlock">Hexenmeister</a>
-      <a href="#" class="class-button druid">Druide</a>
-      <a href="#" class="class-button hunter">Jäger</a>
-      <a href="#" class="class-button paladin">Paladin</a>
-    </div>
-  </div>
+<body>
+    <header>
+        <span class="back-btn" onclick="window.location.href='index.html'">&#8592;</span>
+        <h1>Prio 0 Molten Core</h1>
+    </header>
+    <main>
+        <aside class="class-list" id="classList">
+            <!-- Klassen werden per JS eingefügt -->
+        </aside>
+        <section class="item-list" id="itemList">
+            <!-- Items werden per JS eingefügt -->
+        </section>
+        <section class="item-details" id="itemDetails">
+            <!-- Tabellen kommen hier rein -->
+        </section>
+    </main>
+    <script src="molten-core.js"></script>
 </body>
 </html>
