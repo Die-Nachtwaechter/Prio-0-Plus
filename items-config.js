@@ -10,7 +10,7 @@ const MC_items = [
 const BWL_items = [
     {name: "Edelstein der Verjüngung", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Neltharions Träne", prios: ["Hexenmeister", "Magier"]},
-    {name: "Drachenfangzahn Talisman", prios: ["Schurke", "Krieger", "Druide"]},
+    {name: "Drachenfangzahn-Talisman", prios: ["Schurke", "Krieger", "Druide"]},
     {name: "Chromatisch gehärtetes Schwert", prios: ["Schurke", "Krieger"]},
     {name: "Maladath, Klinge des schwarzen Drachenschwarms", prios: ["Schurke", "Krieger"]},
     {name: "Prestors Talisman der Verschwörung", prios: ["Schurke", "Jäger"]},
@@ -44,11 +44,11 @@ const NAXX_items = [
     {name: "Kuss der Spinne", prios: ["Krieger", "Schurke", "Druide"]},
     {name: "Hammer des wirbelnden Nethers", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Das Auge des Todes", prios: ["Druide", "Priester", "Paladin"]},
-    {name: "Gebundene Essenz Sapphirons", prios: ["Hexenmeister", "Magier"]},
+    {name: "Gebundene Essenz Saphirons", prios: ["Hexenmeister", "Magier"]},
     {name: "Umhang der Nekropole", prios: ["Hexenmeister", "Magier"]},
     {name: "Edelstein der gefangenen Unschuld", prios: ["Hexenmeister", "Magier"]},
-    {name: "Sapphirons rechtes Auge", prios: ["Druide", "Priester"]},
-    {name: "Sapphirons linkes Auge", prios: ["Hexenmeister", "Magier"]},
+    {name: "Saphirons rechtes Auge", prios: ["Druide", "Priester"]},
+    {name: "Saphirons linkes Auge", prios: ["Hexenmeister", "Magier"]},
     {name: "Gurt des Mentors", prios: ["Krieger"]},
     {name: "Königsmörder", prios: ["Schurke"]},
     {name: "Verderbter Aschenbringer", prios: ["Jäger", "Krieger", "Paladin"]}

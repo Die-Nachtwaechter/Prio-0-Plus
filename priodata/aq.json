@@ -1,0 +1,30 @@
+{
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Xerxes",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Gürtel der endlosen Pein": [
+    {
+      "spieler": "Veille",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Stich des Todes": [
+    {
+      "spieler": "Krüppler",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Griff des alten Gottes": [
+    {
+      "spieler": "Kerwin",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ]
+}

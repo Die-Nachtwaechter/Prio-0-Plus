@@ -1,0 +1,65 @@
+{
+  "Neltharions Träne": [
+    {
+      "spieler": "Buca",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Gnomlord",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Evociance",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Drachenfangzahn-Talisman": [
+    {
+      "spieler": "Midania",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Tayni",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Xers",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Prestors Talisman der Verschwörung": [
+    {
+      "spieler": "Shredder",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Veille",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein der Verjüngung": [
+    {
+      "spieler": "Chores",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ]
+}

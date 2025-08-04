@@ -1,0 +1,81 @@
+{
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bjame",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Desmond",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ravyn",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein der gefangenen Unschuld": [
+    {
+      "spieler": "Eotling",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Silverhaze",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Auge des Todes": [
+    {
+      "spieler": "Chores",
+      "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Liaha",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Wundnaht": [
+    {
+      "spieler": "Grummelzwerg",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Hammer des wirbelnden Nethers": [
+    {
+      "spieler": "Solax",
+      "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Sinftw",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Rottfelder",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Die gebundene Essenz Saphirons": [
+    {
+      "spieler": "Xerxes",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ]
+}
