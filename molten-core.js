@@ -2,7 +2,7 @@ const classes = ["Krieger", "Jäger", "Priester", "Hexenmeister", "Paladin", "Sc
 
 const items = MC_items;
 
-const prioData = {};
+let prioData = {};
 
 function loadPrioData(raid) {
     return fetch(`priodata/${raid}.json`)
