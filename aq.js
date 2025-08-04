@@ -1,27 +1,26 @@
 const classes = ["Krieger", "Jäger", "Priester", "Hexenmeister", "Paladin", "Schurke", "Magier", "Druide"];
 
-const items = MC_items;
+const items = AQ_items;
 
-const prioData = {};
-
-function loadPrioData(raid) {
-    return fetch(`priodata/${raid}.json`)
-        .then(response => {
-            if (!response.ok) throw new Error(`Fehler beim Laden der Datei ${raid}.json`);
-            return response.json();
-        })
-        .then(data => {
-            prioData = data;
-            console.log(`Prio-Daten für ${raid} geladen:`, prioData);
-        })
-        .catch(err => {
-            console.error("Fehler beim Laden der Prio-Daten:", err);
-        });
-}
-
-document.addEventListener("DOMContentLoaded", async () => {
-    await loadPrioData("mc");
-});
+const prioData = {
+    // Beispielhafte Tabellen-Daten für Item und Klasse (vereinfachte Struktur)
+    "Sulfuron-Hammer": [
+        {spieler: "Thorin", klasse: "Krieger", anzahl: 3},
+        {spieler: "Balgruuf", klasse: "Paladin", anzahl: 1}
+    ],
+    "Galgann's Feuerhammer": [
+        {spieler: "Ragnar", klasse: "Krieger", anzahl: 2},
+        {spieler: "Luna", klasse: "Jäger", anzahl: 2}
+    ],
+    "Feuerblitz-Handschuhe": [
+        {spieler: "Magi", klasse: "Magier", anzahl: 4},
+        {spieler: "Healer", klasse: "Priester", anzahl: 3}
+    ],
+    "Flammenzunge": [
+        {spieler: "Hexi", klasse: "Hexenmeister", anzahl: 2}
+    ],
+    // weitere Items ...
+};
 
 // Elemente greifen
 const classList = document.getElementById("classList");
