@@ -142,7 +142,6 @@ function createTable(data, itemName){
     const wrapper = document.createElement("div");
     wrapper.classList.add("item-table-wrapper");
 
-    const h3 = document.createElement("h3");
     h3.textContent = itemName;
 
     const table = document.createElement("table");
@@ -163,8 +162,6 @@ function createTable(data, itemName){
 
     table.appendChild(thead);
     table.appendChild(tbody);
-
-    wrapper.appendChild(h3);
     wrapper.appendChild(table);
 
     return wrapper;  // Wrapper mit Überschrift und Tabelle zurückgeben
