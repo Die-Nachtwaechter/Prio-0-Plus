@@ -1,5 +1,5 @@
 const MC_items = [
-    {name: "Halsreif des Feuerlords", prios: ["Magier", "Hexenmeister"]},
+    {name: "Halsschmuck des Feuerlords", prios: ["Magier", "Hexenmeister"]},
     {name: "Band von Accuria", prios: ["Krieger", "Schurke", "Druide"]},
     {name: "Gurt des Ansturms", prios: ["Krieger"]},
     {name: "Band der Ausbrennung", prios: ["Priester", "Druide", "Paladin"]},

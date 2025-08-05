@@ -1,40 +1,26 @@
 {
-    "Halsreif des Feuerlords": [
-        { "spieler": "Thorgal", "klasse": "Krieger", "anzahl": 2 },
-        { "spieler": "Valindra", "klasse": "Paladin", "anzahl": 1 }
-    ],
-    "Galgann's Feuerhammer": [
-        { "spieler": "Ragnar", "klasse": "Krieger", "anzahl": 3 },
-        { "spieler": "Fenrir", "klasse": "Jäger", "anzahl": 1 }
-    ],
-    "Feuerblitz-Handschuhe": [
-        { "spieler": "Mirelia", "klasse": "Magier", "anzahl": 2 },
-        { "spieler": "Seraphiel", "klasse": "Priester", "anzahl": 1 }
-    ],
-    "Flammenzunge": [
-        { "spieler": "Zarvox", "klasse": "Hexenmeister", "anzahl": 2 }
-    ],
-    "Herz des Feuers": [
-        { "spieler": "Elandra", "klasse": "Druide", "anzahl": 1 },
-        { "spieler": "Theros", "klasse": "Paladin", "anzahl": 2 }
-    ],
-    "Feuerfäuste": [
-        { "spieler": "Kaelen", "klasse": "Schurke", "anzahl": 2 },
-        { "spieler": "Gorath", "klasse": "Krieger", "anzahl": 1 }
-    ],
-    "Schultern des Lavafürsten": [
-        { "spieler": "Borin", "klasse": "Krieger", "anzahl": 1 },
-        { "spieler": "Lyria", "klasse": "Paladin", "anzahl": 1 }
-    ],
-    "Feuersturm-Umhang": [
-        { "spieler": "Selindra", "klasse": "Magier", "anzahl": 3 },
-        { "spieler": "Althar", "klasse": "Priester", "anzahl": 2 }
-    ],
-    "Nachtklinge": [
-        { "spieler": "Shade", "klasse": "Schurke", "anzahl": 2 }
-    ],
-    "Glühende Brustplatte": [
-        { "spieler": "Durak", "klasse": "Krieger", "anzahl": 1 },
-        { "spieler": "Feyra", "klasse": "Paladin", "anzahl": 1 }
-    ]
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Midania",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Visenna",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ambition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ]
 }
