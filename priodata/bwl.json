@@ -3,34 +3,34 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Evociance",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Tayni",
@@ -38,9 +38,14 @@
       "anzahl": 1
     },
     {
-      "spieler": "Xers",
+      "spieler": "Villanelle",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Xers",
+      "klasse": "Schurke",
+      "anzahl": 2
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -52,6 +57,11 @@
     {
       "spieler": "Veille",
       "klasse": "Schurke",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Belakors",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ],
@@ -59,6 +69,23 @@
     {
       "spieler": "Chores",
       "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Snow",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
