@@ -23,7 +23,7 @@ const AQ_items = [
     {name: "Stulpen der Vernichtung", prios: ["Krieger"]},
     {name: "Augenstrangkordel", prios: ["Hexenmeister", "Magier"]},
     {name: "Stulpen der dunklen Stürme", prios: ["Hexenmeister", "Magier"]},
-    {name: "Amulet von Veknilash", prios: ["Hexenmeister", "Magier"]},
+    {name: "Amulet von Vek'nilash", prios: ["Hexenmeister", "Magier"]},
     {name: "Knöigliches Szepter von Veklor", prios: ["Hexenmeister", "Magier"]},
     {name: "Szepter des falschen Propheten", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Griff des alten Gottes", prios: ["Druide", "Priester", "Paladin"]},
