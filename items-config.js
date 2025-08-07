@@ -44,7 +44,7 @@ const NAXX_items = [
     {name: "Kuss der Spinne", prios: ["Krieger", "Schurke", "Druide"]},
     {name: "Hammer des wirbelnden Nethers", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Auge des Todes", prios: ["Druide", "Priester", "Paladin"]},
-    {name: "Gebundene Essenz Saphirons", prios: ["Hexenmeister", "Magier"]},
+    {name: "Die Gebundene Essenz Saphirons", prios: ["Hexenmeister", "Magier"]},
     {name: "Umhang der Nekropole", prios: ["Hexenmeister", "Magier"]},
     {name: "Umhang der Wundnaht", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Edelstein der gefangenen Unschuld", prios: ["Hexenmeister", "Magier"]},
