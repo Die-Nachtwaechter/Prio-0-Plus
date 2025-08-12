@@ -3,22 +3,31 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band von Accuria": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Visenna",
       "klasse": "Druide",
-      "anzahl": 1
-    },
+      "anzahl": 2
+    }
+  ],
+  "Band der Ausbrennung": [
     {
-      "spieler": "Ambition",
+      "spieler": "Mera",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Grut des Ansturms": [
+    {
+      "spieler": "Vinx",
       "klasse": "Krieger",
       "anzahl": 1
     }
