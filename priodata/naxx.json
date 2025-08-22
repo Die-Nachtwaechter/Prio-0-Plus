@@ -3,45 +3,55 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Desmond",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Ravyn",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der gefangenen Unschuld": [
     {
       "spieler": "Eotling",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Silverhaze",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Auge des Todes": [
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Poel",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Liaha",
       "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Sinftw",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Tiru",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -49,10 +59,15 @@
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Kohlhaas",
+      "klasse": "Priester",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Brasok",
       "klasse": "Priester",
       "anzahl": 1
     }
@@ -68,35 +83,35 @@
     {
       "spieler": "Rottfelder",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Nerubischer Sklavenjäger": [
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2 
     }
   ],
   "Wappen des Schlächters": [
     {
       "spieler": "Yumpi",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Kuss der Spinne": [
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Die gebundene Essenz Saphirons": [
     {
       "spieler": "Xerxes",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3 
     }
   ]
 }
