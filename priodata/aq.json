@@ -10,19 +10,19 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Veille",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Griff des alten Gottes": [
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Augenstrangkordel": [
@@ -35,19 +35,31 @@
       "spieler": "Nasadax",
       "klasse": "Hexenmeister",
       "anzahl": 1
+    },
+    {
+      "spieler": "Gnomlord",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Szepter des falschen Propheten": [
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Evociance",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ]
