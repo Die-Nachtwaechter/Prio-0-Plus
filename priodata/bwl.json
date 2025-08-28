@@ -78,5 +78,12 @@
       "klasse": "Krieger",
       "anzahl": 1
     }
+  ],
+  "Lok'Amir il Romathis": [
+    {
+      "spieler": "Healistdurch",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
   ]
 }
