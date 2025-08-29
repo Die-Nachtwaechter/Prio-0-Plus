@@ -8,7 +8,7 @@
     {
       "spieler": "Desmond",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Ravyn",
@@ -20,24 +20,24 @@
     {
       "spieler": "Eotling",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Silverhaze",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Auge des Todes": [
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Poel",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Liaha",
@@ -47,7 +47,7 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Tiru",
@@ -59,15 +59,20 @@
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Kohlhaas",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Brasok",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Liaha",
       "klasse": "Priester",
       "anzahl": 1
     }
@@ -83,14 +88,14 @@
     {
       "spieler": "Rottfelder",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Kuss der Spinne": [
     {
-      "spieler": "Ragnard",
+      "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 1
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -98,6 +103,11 @@
       "spieler": "Xerxes",
       "klasse": "Magier",
       "anzahl": 3 
+    },
+    {
+      "spieler": "Evociance",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ]
 }
