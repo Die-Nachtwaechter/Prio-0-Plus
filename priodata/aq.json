@@ -4,13 +4,18 @@
       "spieler": "Veille",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Schredder",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Stich des Todes": [
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Veille",
@@ -23,6 +28,11 @@
       "spieler": "Kerwin",
       "klasse": "Priester",
       "anzahl": 3
+    },
+    {
+      "spieler": "Dusa",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Augenstrangkordel": [
@@ -39,27 +49,34 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Szepter des falschen Propheten": [
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Amulett von Vek'nilash": [
     {
       "spieler": "Evociance",
       "klasse": "Magier",
+      "anzahl": 2
+    }
+  ],
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Ambition",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
