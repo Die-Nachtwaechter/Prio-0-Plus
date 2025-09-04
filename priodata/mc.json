@@ -3,18 +3,23 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Band von Accuria": [
     {
       "spieler": "Visenna",
       "klasse": "Druide",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Dosentee",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
@@ -22,21 +27,14 @@
     {
       "spieler": "Mera",
       "klasse": "Druide",
-      "anzahl": 3
-    }
-  ],
-  "Gurt des Ansturms": [
-    {
-      "spieler": "Vinx",
-      "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
