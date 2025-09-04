@@ -12,7 +12,7 @@ const MC_items = [
     {name: "Klinge des Verderbens", prios: ["Krieger", "Schurke"]},
     {name: "Uraltes versteinertes Blatt", prios: ["Jäger"]},
     {name: "Wilde Wachstumsschiftung", prios: ["Druide", "Paladin"]},
-    {name: "Auge der Offenbarung", prios: ["Krieger", "Schurke"]},
+    {name: "Auge der Offenbarung", prios: ["Priester"]},
 ];
 
 const BWL_items = [
