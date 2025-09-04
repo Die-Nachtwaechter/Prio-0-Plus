@@ -46,18 +46,26 @@ header h1 {
 main {
     flex: 1;
     display: grid;
-    grid-template-columns: 200px 200px 1fr;
+    grid-template-columns: 200px minmax(200px, 600px) 1fr;
     gap: 15px;
     padding: 20px;
 }
 
 /* Klassen- und Items-Listen vertikal zentriert */
-.class-list, .item-list {
+.class-list {
     display: flex;
     flex-direction: column;
     gap: 10px;
     justify-content: center; /* vertikal zentrieren */
     height: 100%;
+}
+
+.item-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    justify-content: center;   /* horizontal zentrieren */
+    align-content: center;     /* vertikal zentrieren */
 }
 
 /* Buttons wie vorher, plus roter Rand links für Items */
