@@ -93,6 +93,10 @@ items.forEach(item => {
     itemList.appendChild(btn);
 });
 
+if (itemList.children.length > 14) {
+    itemList.classList.add("multi-col");
+}
+
 // Detailanzeige für einzelne Items
 function showDetailsForItem(itemName){
     itemDetails.innerHTML = "";

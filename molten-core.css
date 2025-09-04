@@ -62,10 +62,17 @@ main {
 
 .item-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: 1fr;
+    justify-items: center;
     gap: 10px;
-    justify-content: center;   /* horizontal zentrieren */
-    align-content: center;     /* vertikal zentrieren */
+    align-content: center;
+}
+
+/* Ab z.B. 10 Items → 2–3 Spalten */
+.item-list.multi-col {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    justify-items: stretch; /* Spalten sollen vollen Platz nutzen */
+    max-width: 600px;
 }
 
 /* Buttons wie vorher, plus roter Rand links für Items */
@@ -84,6 +91,8 @@ main {
 /* Roter linker Rand nur bei Items */
 .item-list .button {
     border-left: 5px solid #b33;
+    max-width: 250px;
+    width: 100%;
 }
 
 .button:hover {
