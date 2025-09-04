@@ -3,17 +3,17 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Evociance",
@@ -25,17 +25,12 @@
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Âmbition",
-      "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Villanelle",
@@ -46,13 +41,18 @@
       "spieler": "Xers",
       "klasse": "Schurke",
       "anzahl": 3
+    },
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
     {
       "spieler": "Shredder",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Belakors",
