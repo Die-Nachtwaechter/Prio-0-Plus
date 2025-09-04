@@ -8,7 +8,7 @@
     {
       "spieler": "Desmond",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Ravyn",
@@ -20,12 +20,12 @@
     {
       "spieler": "Eotling",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Silverhaze",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Auge des Todes": [
@@ -47,19 +47,19 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Wundnaht": [
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Kohlhaas",
@@ -69,12 +69,12 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Liaha",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -88,7 +88,7 @@
     {
       "spieler": "Rottfelder",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Kuss der Spinne": [
@@ -102,11 +102,25 @@
     {
       "spieler": "Xerxes",
       "klasse": "Magier",
-      "anzahl": 3 
+      "anzahl": 3
     },
     {
       "spieler": "Evociance",
       "klasse": "Magier",
+      "anzahl": 2
+    }
+  ],
+  "Wappen des Schlächters": [
+    {
+      "spieler": "Kimble",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Iblis, Klinge des gefallenen Engels": [
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
