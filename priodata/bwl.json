@@ -3,29 +3,34 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
+    },
+    {
+      "spieler": "Evociance",
+      "klasse": "Magier",
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Villanelle",
@@ -41,13 +46,18 @@
       "spieler": "Zimzarek",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Bjame",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
     {
       "spieler": "Shredder",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Belakors",
@@ -77,6 +87,13 @@
   "Lok'Amir il Romathis": [
     {
       "spieler": "Healistdurch",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Chores",
       "klasse": "Paladin",
       "anzahl": 1
     }
