@@ -9,6 +9,16 @@
       "spieler": "Schredder",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Krüppler",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Shredder",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Stich des Todes": [
@@ -27,7 +37,7 @@
     {
       "spieler": "Dusa",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Augenstrangkordel": [
@@ -44,26 +54,19 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Casuka",
       "klasse": "Hexenmeister",
       "anzahl": 1
-    }
-  ],
-  "Amulett von Vek'nilash": [
-    {
-      "spieler": "Evociance",
-      "klasse": "Magier",
-      "anzahl": 3
     }
   ],
   "Stulpen der Vernichtung": [
@@ -75,6 +78,20 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
+      "anzahl": 2
+    }
+  ],
+  "Jom Gabbar": [
+    {
+      "spieler": "Uawg",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Ring des Märtyrers": [
+    {
+      "spieler": "Chores",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ]
