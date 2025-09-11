@@ -8,31 +8,41 @@
     {
       "spieler": "Desmond",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Ravyn",
       "klasse": "Schurke",
       "anzahl": 2
+    },
+    {
+      "spieler": "Ragnard",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
     {
-      "spieler": "Eotling",
-      "klasse": "Hexenmeister",
-      "anzahl": 4
+      "spieler": "Silverhaze",
+      "klasse": "Magier",
+      "anzahl": 5
+    },
+    {
+      "spieler": "Xerxes",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Auge des Todes": [
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Poel",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Liaha",
@@ -42,19 +52,19 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang der Wundnaht": [
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Kohlhaas",
@@ -64,12 +74,12 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Liaha",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -81,16 +91,16 @@
   ],
   "Gressil, Vorbote des Untergangs": [
     {
-      "spieler": "Rottfelder",
+      "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 1
     }
   ],
   "Kuss der Spinne": [
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -102,20 +112,25 @@
     {
       "spieler": "Evociance",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Silverhaze",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Wappen des Schlächters": [
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
-  "Iblis, Klinge des gefallenen Engels": [
+  "Umhang der Nekropole": [
     {
-      "spieler": "Perlenpaula",
-      "klasse": "Krieger",
+      "spieler": "Buffin",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ]
