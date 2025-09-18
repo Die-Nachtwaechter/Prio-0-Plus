@@ -3,17 +3,17 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Evociance",
@@ -25,12 +25,12 @@
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Villanelle",
@@ -50,6 +50,11 @@
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Visenna",
+      "klasse": "Druide",
       "anzahl": 1
     }
   ],
@@ -88,6 +93,20 @@
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Chores",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Chromatische Stiefel": [
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
