@@ -8,7 +8,7 @@
     {
       "spieler": "Desmond",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Ravyn",
@@ -18,7 +18,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -30,19 +30,14 @@
     {
       "spieler": "Xerxes",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Auge des Todes": [
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 5
-    },
-    {
-      "spieler": "Poel",
-      "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 6
     },
     {
       "spieler": "Liaha",
@@ -52,34 +47,34 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Umhang der Wundnaht": [
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Kohlhaas",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Liaha",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -93,14 +88,14 @@
     {
       "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Kuss der Spinne": [
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -112,24 +107,43 @@
     {
       "spieler": "Evociance",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Silverhaze",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Wappen des Schlächters": [
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Rottfelder",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Umhang der Nekropole": [
     {
       "spieler": "Buffin",
+      "klasse": "Hexenmeister",
+      "anzahl": 2
+    }
+  ],
+  "Band der unnatürlichen Kräfte": [
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Zauberstab der Heimsuchung": [
+    {
+      "spieler": "Casuka",
       "klasse": "Hexenmeister",
       "anzahl": 1
     }
