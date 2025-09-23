@@ -1,16 +1,9 @@
 {
-  "Halsschmuck des Feuerlords": [
-    {
-      "spieler": "Joi",
-      "klasse": "Hexenmeister",
-      "anzahl": 6
-    }
-  ],
   "Band von Accuria": [
     {
       "spieler": "Visenna",
       "klasse": "Druide",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Relentless",
@@ -20,14 +13,14 @@
     {
       "spieler": "Dosentee",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band der Ausbrennung": [
     {
       "spieler": "Mera",
       "klasse": "Druide",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Ring des rasanten Schlags": [
@@ -41,7 +34,7 @@
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }

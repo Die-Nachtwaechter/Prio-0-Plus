@@ -5,7 +5,7 @@ const MC_items = [
     {name: "Band der Ausbrennung", prios: ["Priester", "Druide", "Paladin"]},
     {name: "Ring des rasanten Schlags", prios: ["Krieger", "Druide", "Schurke"]},
     {name: "Mal des Schlägers", prios: ["Schurke", "Krieger"]},
-    {name: "Talisman der emphemeren Macht", prios: ["Magier", "Hexenmeister"]},
+    {name: "Talisman der ephemeren Macht", prios: ["Magier", "Hexenmeister"]},
     {name: "Magierklinge des Azurlieds", prios: ["Magier", "Hexenmeister"]},
     {name: "Alte Kernlederhandschuhe", prios: ["Krieger", "Schurke"]},
     {name: "Kernhundzahn", prios: ["Krieger", "Schurke", "Jäger"]},
