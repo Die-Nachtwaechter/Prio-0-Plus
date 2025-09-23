@@ -36,5 +36,12 @@
       "klasse": "Krieger",
       "anzahl": 2
     }
+  ],
+  "Schläger-Mal": [
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
   ]
 }
