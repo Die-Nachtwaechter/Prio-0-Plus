@@ -8,12 +8,17 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Shredder",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Shiftie",
+      "klasse": "Druide",
+      "anzahl": 1
     }
   ],
   "Stich des Todes": [
@@ -21,6 +26,11 @@
       "spieler": "Veille",
       "klasse": "Schurke",
       "anzahl": 2
+    },
+    {
+      "spieler": "Dosentee",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Griff des alten Gottes": [
@@ -32,8 +42,13 @@
     {
       "spieler": "Dusa",
       "klasse": "Paladin",
-      "anzahl": 3
-    }
+      "anzahl": 4
+    },
+    {
+      "spieler": "Patriona",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
   ],
   "Augenstrangkordel": [
     {
@@ -49,14 +64,14 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Casuka",
@@ -66,14 +81,9 @@
   ],
   "Stulpen der Vernichtung": [
     {
-      "spieler": "Ambition",
-      "klasse": "Krieger",
-      "anzahl": 1
-    },
-    {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 4
     }
   ],
   "Jom Gabbar": [
@@ -86,6 +96,20 @@
   "Ring des Märtyrers": [
     {
       "spieler": "Chores",
+      "klasse": "Paladin",
+      "anzahl": 2
+    }
+  ],
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Klarsicht": [
+    {
+      "spieler": "Healistdurch",
       "klasse": "Paladin",
       "anzahl": 1
     }
