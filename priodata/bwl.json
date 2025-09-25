@@ -8,12 +8,12 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Evociance",
@@ -25,17 +25,17 @@
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Xers",
@@ -50,12 +50,12 @@
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Visenna",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -68,6 +68,11 @@
       "spieler": "Belakors",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Uawg",
+      "klasse": "Jäger",
+      "anzahl": 1
     }
   ],
   "Edelstein der Verjüngung": [
@@ -79,6 +84,11 @@
     {
       "spieler": "Snow",
       "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Patriona",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ],
@@ -107,7 +117,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
