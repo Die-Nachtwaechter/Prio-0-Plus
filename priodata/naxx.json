@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Desmond",
@@ -18,7 +18,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -26,11 +26,6 @@
       "spieler": "Silverhaze",
       "klasse": "Magier",
       "anzahl": 5
-    },
-    {
-      "spieler": "Xerxes",
-      "klasse": "Magier",
-      "anzahl": 2
     }
   ],
   "Auge des Todes": [
@@ -38,6 +33,11 @@
       "spieler": "Chores",
       "klasse": "Paladin",
       "anzahl": 6
+    },
+    {
+      "spieler": "Poel",
+      "klasse": "Paladin",
+      "anzahl": 4
     },
     {
       "spieler": "Liaha",
@@ -59,7 +59,7 @@
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 6
+      "anzahl": 5
     },
     {
       "spieler": "Kohlhaas",
@@ -75,6 +75,11 @@
       "spieler": "Liaha",
       "klasse": "Priester",
       "anzahl": 4
+    },
+    {
+      "spieler": "Solaxso",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -105,11 +110,6 @@
       "anzahl": 3
     },
     {
-      "spieler": "Evociance",
-      "klasse": "Magier",
-      "anzahl": 4
-    },
-    {
       "spieler": "Silverhaze",
       "klasse": "Magier",
       "anzahl": 2
@@ -119,12 +119,7 @@
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Rottfelder",
-      "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Nekropole": [
@@ -132,13 +127,6 @@
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
       "anzahl": 2
-    }
-  ],
-  "Band der unnatürlichen Kräfte": [
-    {
-      "spieler": "Perlenpaula",
-      "klasse": "Krieger",
-      "anzahl": 1
     }
   ],
   "Zauberstab der Heimsuchung": [
