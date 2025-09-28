@@ -13,7 +13,7 @@
     {
       "spieler": "Shredder",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Shiftie",
@@ -30,6 +30,11 @@
     {
       "spieler": "Dosentee",
       "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Belakors",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ],
@@ -42,7 +47,7 @@
     {
       "spieler": "Dusa",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Patriona",
@@ -64,14 +69,14 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Casuka",
@@ -84,6 +89,11 @@
       "spieler": "Âmbition",
       "klasse": "Krieger",
       "anzahl": 4
+    },
+    {
+      "spieler": "Ambition",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Jom Gabbar": [
@@ -111,6 +121,13 @@
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Ring des Göttertöters": [
+    {
+      "spieler": "Uawg",
+      "klasse": "Jäger",
       "anzahl": 1
     }
   ]
