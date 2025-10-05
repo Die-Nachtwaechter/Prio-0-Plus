@@ -30,12 +30,12 @@
     {
       "spieler": "Dosentee",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Belakors",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Griff des alten Gottes": [
@@ -52,7 +52,7 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Augenstrangkordel": [
@@ -69,14 +69,14 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Casuka",
@@ -88,10 +88,15 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Ambition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Stahlwille",
       "klasse": "Krieger",
       "anzahl": 1
     }
@@ -100,6 +105,11 @@
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Krüppler",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ],
@@ -121,7 +131,7 @@
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Göttertöters": [
