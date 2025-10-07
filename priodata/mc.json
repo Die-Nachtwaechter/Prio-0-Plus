@@ -3,7 +3,7 @@
     {
       "spieler": "Visenna",
       "klasse": "Druide",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Relentless",
@@ -13,7 +13,7 @@
     {
       "spieler": "Dosentee",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Band der Ausbrennung": [
@@ -28,19 +28,41 @@
       "spieler": "Stahlwille",
       "klasse": "Krieger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Gurt des Ansturms": [
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
-  "Schläger-Mal": [
+  "Halsschmuck des Feuerlords": [
     {
-      "spieler": "Âmbition",
-      "klasse": "Krieger",
+      "spieler": "Wadenbeißer",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Wilde Wachstums-Schiftung": [
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
       "anzahl": 1
     }
   ]
