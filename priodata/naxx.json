@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Ravyn",
@@ -13,7 +13,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 5
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -21,13 +21,23 @@
       "spieler": "Silverhaze",
       "klasse": "Magier",
       "anzahl": 5
+    },
+    {
+      "spieler": "Xerxes",
+      "klasse": "Magier",
+      "anzahl": 3
     }
   ],
   "Auge des Todes": [
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 8
+      "anzahl": 9
+    },
+    {
+      "spieler": "Poel",
+      "klasse": "Paladin",
+      "anzahl": 5
     },
     {
       "spieler": "Liaha",
@@ -37,7 +47,7 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Tiru",
@@ -47,24 +57,39 @@
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Sandyrella",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ],
   "Umhang der Wundnaht": [
     {
+      "spieler": "Solax",
+      "klasse": "Paladin",
+      "anzahl": 7
+    },
+    {
       "spieler": "Kohlhaas",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Liaha",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Solaxso",
@@ -83,7 +108,7 @@
     {
       "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Bergomann",
@@ -95,7 +120,7 @@
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -107,7 +132,7 @@
     {
       "spieler": "Silverhaze",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Buca",
@@ -145,6 +170,20 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der unerhörten Gebete": [
+    {
+      "spieler": "Kerwin",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Uawg",
+      "klasse": "Jäger",
       "anzahl": 1
     }
   ]
