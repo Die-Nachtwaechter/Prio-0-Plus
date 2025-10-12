@@ -19,6 +19,11 @@
       "spieler": "Shiftie",
       "klasse": "Druide",
       "anzahl": 1
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Stich des Todes": [
@@ -30,7 +35,7 @@
     {
       "spieler": "Dosentee",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Belakors",
@@ -52,7 +57,7 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Augenstrangkordel": [
@@ -69,14 +74,14 @@
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Casuka",
@@ -88,7 +93,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Ambition",
@@ -98,7 +103,7 @@
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Jom Gabbar": [
@@ -110,7 +115,7 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Märtyrers": [
@@ -138,6 +143,13 @@
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Szepter des falschen Propheten": [
+    {
+      "spieler": "Vonmir",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ]
