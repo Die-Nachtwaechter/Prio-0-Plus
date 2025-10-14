@@ -1,19 +1,19 @@
 {
   "Band von Accuria": [
     {
-      "spieler": "Visenna",
-      "klasse": "Druide",
-      "anzahl": 7
-    },
-    {
       "spieler": "Relentless",
       "klasse": "Schurke",
       "anzahl": 3
     },
     {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 2
+    },
+    {
       "spieler": "Dosentee",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Band der Ausbrennung": [
@@ -32,7 +32,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Jôncenà",
@@ -42,15 +42,11 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Gurt des Ansturms": [
-    {
-      "spieler": "Stahlwille",
-      "klasse": "Krieger",
-      "anzahl": 3
-    }
+    
   ],
   "Halsschmuck des Feuerlords": [
     {
@@ -60,9 +56,12 @@
     }
   ],
   "Wilde Wachstums-Schiftung": [
+    
+  ],
+  "Kernhundzahn": [
     {
-      "spieler": "Auxeroise",
-      "klasse": "Druide",
+      "spieler": "Ellayana",
+      "klasse": "Jäger",
       "anzahl": 1
     }
   ]
