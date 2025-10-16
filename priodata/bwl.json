@@ -3,12 +3,12 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Joi",
@@ -23,24 +23,24 @@
     {
       "spieler": "Floppi",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Xers",
@@ -55,7 +55,7 @@
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Visenna",
@@ -65,7 +65,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -81,6 +81,11 @@
     },
     {
       "spieler": "Uawg",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Shadowsniper",
       "klasse": "Jäger",
       "anzahl": 1
     }
@@ -99,7 +104,7 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
@@ -127,7 +132,19 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
+    },
+    {
+      "spieler": "Stahlwille",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein des Gedankensprungs": [
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ]
 }
