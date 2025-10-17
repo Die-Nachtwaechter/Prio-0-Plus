@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Ravyn",
@@ -13,7 +13,12 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
+    },
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -47,7 +52,7 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Tiru",
@@ -57,15 +62,20 @@
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Sandyrella",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Brasok",
       "klasse": "Priester",
       "anzahl": 1
     }
@@ -79,21 +89,21 @@
     {
       "spieler": "Kohlhaas",
       "klasse": "Priester",
-      "anzahl": 6
-    },
-    {
-      "spieler": "Brasok",
-      "klasse": "Priester",
       "anzahl": 7
     },
     {
       "spieler": "Liaha",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Solaxso",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Chores",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -108,7 +118,7 @@
     {
       "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Bergomann",
@@ -120,7 +130,7 @@
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -137,26 +147,26 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Wappen des Schlächters": [
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Rottfelder",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Nekropole": [
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -170,7 +180,7 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band der unerhörten Gebete": [
@@ -183,6 +193,11 @@
   "Nerubischer Sklavenjäger": [
     {
       "spieler": "Uawg",
+      "klasse": "Jäger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Avid",
       "klasse": "Jäger",
       "anzahl": 1
     }
