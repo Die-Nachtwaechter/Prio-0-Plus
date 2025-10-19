@@ -55,7 +55,7 @@ const AQ_items = [
     {name: "Abzeichen der Schwarmwache", prios: ["Krieger", "Schurke", "Jäger"]},
     {name: "Stich des Todes", prios: ["Schurke"]},
     {name: "Uralter Qirajizerfetzer", prios: ["Krieger", "Schurke"]},
-    {name: "Auge von C'thun", prios: ["Hexenmeister", "Magier", "Druide", "Paladin", "Priester", "Krieger", "Schurke", "Jäger"]},
+    {name: "Auge von C'Thun", prios: ["Hexenmeister", "Magier", "Druide", "Paladin", "Priester", "Krieger", "Schurke", "Jäger"]},
     {name: "Umhang des Verschlungenen", prios: ["Magier", "Hexenmeister"]},
     {name: "Geschärfter Silithidenknochen", prios: ["Magier", "Hexenmeister"]},
     {name: "Rytssyns Ring des Chaos", prios: ["Magier", "Hexenmeister"]},

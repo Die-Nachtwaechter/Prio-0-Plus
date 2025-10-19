@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stich des Todes": [
@@ -31,11 +31,6 @@
       "spieler": "Veille",
       "klasse": "Schurke",
       "anzahl": 2
-    },
-    {
-      "spieler": "Dosentee",
-      "klasse": "Krieger",
-      "anzahl": 4
     },
     {
       "spieler": "Belakors",
@@ -57,7 +52,7 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Augenstrangkordel": [
@@ -75,13 +70,18 @@
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
       "anzahl": 8
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Casuka",
@@ -103,7 +103,7 @@
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Jom Gabbar": [
@@ -115,7 +115,7 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des Märtyrers": [
@@ -129,14 +129,14 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Klarsicht": [
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des Göttertöters": [
@@ -149,6 +149,20 @@
   "Szepter des falschen Propheten": [
     {
       "spieler": "Vonmir",
+      "klasse": "Priester",
+      "anzahl": 2
+    }
+  ],
+  "Umhang des Verschlungenen": [
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Auge von C'Thun": [
+    {
+      "spieler": "Evosolara",
       "klasse": "Priester",
       "anzahl": 1
     }
