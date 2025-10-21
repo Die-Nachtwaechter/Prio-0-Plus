@@ -8,12 +8,12 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Dosentee",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Band der Ausbrennung": [
@@ -27,12 +27,12 @@
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Jôncenà",
@@ -62,7 +62,10 @@
     {
       "spieler": "Ellayana",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
+  ],
+  "Schläger-Mal": [
+    
   ]
 }
