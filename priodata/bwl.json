@@ -3,44 +3,39 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 8
-    },
-    {
-      "spieler": "Gnomlord",
-      "klasse": "Hexenmeister",
-      "anzahl": 10
+      "anzahl": 9
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 9
-    },
-    {
-      "spieler": "Evociance",
-      "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 10
     },
     {
       "spieler": "Floppi",
       "klasse": "Magier",
       "anzahl": 3
+    },
+    {
+      "spieler": "Tresuri",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Xers",
@@ -65,7 +60,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -105,6 +100,11 @@
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 4
+    },
+    {
+      "spieler": "Evosolara",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
@@ -115,11 +115,6 @@
     }
   ],
   "Lok'Amir il Romathis": [
-    {
-      "spieler": "Healistdurch",
-      "klasse": "Paladin",
-      "anzahl": 1
-    }
   ],
   "Band aus reinem Elementium": [
     {
@@ -132,7 +127,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Stahlwille",
@@ -144,6 +139,13 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
+      "anzahl": 2
+    }
+  ],
+  "Ashjre'thul, Armbrust der Pein": [
+    {
+      "spieler": "Shadowsniper",
+      "klasse": "Jäger",
       "anzahl": 1
     }
   ]
