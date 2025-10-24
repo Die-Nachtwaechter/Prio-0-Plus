@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Ravyn",
@@ -13,10 +13,15 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Postbotin",
       "klasse": "Krieger",
       "anzahl": 1
     }
@@ -31,6 +36,11 @@
       "spieler": "Xerxes",
       "klasse": "Magier",
       "anzahl": 3
+    },
+    {
+      "spieler": "Buffin",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Auge des Todes": [
@@ -52,22 +62,22 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Sandyrella",
@@ -77,7 +87,7 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Wundnaht": [
@@ -89,7 +99,7 @@
     {
       "spieler": "Kohlhaas",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Liaha",
@@ -104,7 +114,7 @@
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -118,10 +128,15 @@
     {
       "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Perlenpaula",
       "klasse": "Krieger",
       "anzahl": 1
     }
@@ -142,7 +157,7 @@
     {
       "spieler": "Silverhaze",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Buca",
@@ -154,7 +169,7 @@
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Rottfelder",
@@ -194,7 +209,7 @@
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Avid",
