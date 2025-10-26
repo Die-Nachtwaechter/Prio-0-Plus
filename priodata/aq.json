@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stich des Todes": [
@@ -52,7 +52,7 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Augenstrangkordel": [
@@ -74,18 +74,23 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der dunklen Stürme": [
     {
       "spieler": "Shyxi",
       "klasse": "Magier",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Casuka",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Tresuri",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
@@ -103,7 +108,7 @@
     {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Jom Gabbar": [
@@ -136,7 +141,7 @@
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des Göttertöters": [
@@ -150,20 +155,20 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang des Verschlungenen": [
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Auge von C'Thun": [
     {
-      "spieler": "Evosolara",
-      "klasse": "Priester",
+      "spieler": "Dosentee",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
