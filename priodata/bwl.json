@@ -3,7 +3,7 @@
     {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Joi",
@@ -18,24 +18,24 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Xers",
@@ -45,7 +45,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Bjame",
@@ -60,7 +60,12 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
+    },
+    {
+      "spieler": "Dosentee",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -104,6 +109,11 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Vintersol",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -114,8 +124,7 @@
       "anzahl": 1
     }
   ],
-  "Lok'Amir il Romathis": [
-  ],
+  "Lok'Amir il Romathis": [],
   "Band aus reinem Elementium": [
     {
       "spieler": "Chores",
@@ -127,7 +136,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Stahlwille",
@@ -139,14 +148,26 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
     {
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
+      "anzahl": 2
+    }
+  ],
+  "Armschienen der arkanen Präzision": [
+  ],
+  "Band der erzwungenen Konzentration": [
+    {
+      "spieler": "Wadenbeißer",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
+  ],
+  "Energieerfüllte Gamaschen": [
+    
   ]
 }
