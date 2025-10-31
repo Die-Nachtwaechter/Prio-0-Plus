@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Ravyn",
@@ -13,17 +13,17 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -67,17 +67,17 @@
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Sandyrella",
@@ -87,7 +87,12 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Sinftw",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Umhang der Wundnaht": [
@@ -114,7 +119,7 @@
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -138,7 +143,7 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Kuss der Spinne": [
@@ -155,11 +160,6 @@
       "anzahl": 3
     },
     {
-      "spieler": "Silverhaze",
-      "klasse": "Magier",
-      "anzahl": 5
-    },
-    {
       "spieler": "Buca",
       "klasse": "Hexenmeister",
       "anzahl": 2
@@ -170,11 +170,6 @@
       "spieler": "Kimble",
       "klasse": "Jäger",
       "anzahl": 5
-    },
-    {
-      "spieler": "Rottfelder",
-      "klasse": "Schurke",
-      "anzahl": 2
     }
   ],
   "Umhang der Nekropole": [
@@ -207,13 +202,20 @@
   ],
   "Nerubischer Sklavenjäger": [
     {
-      "spieler": "Uawg",
-      "klasse": "Jäger",
-      "anzahl": 3
-    },
-    {
       "spieler": "Avid",
       "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Shadowsniper",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Iblis, Klinge des gefallenen Engels": [
+    {
+      "spieler": "Zainab",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ]
