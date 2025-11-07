@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Ravyn",
@@ -13,12 +13,12 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Postbotin",
@@ -62,22 +62,22 @@
     {
       "spieler": "Sinftw",
       "klasse": "Priester",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Sandyrella",
@@ -87,7 +87,7 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Sinftw",
@@ -119,7 +119,7 @@
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -143,7 +143,7 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Kuss der Spinne": [
@@ -169,7 +169,7 @@
     {
       "spieler": "Kimble",
       "klasse": "Jäger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Umhang der Nekropole": [
@@ -191,6 +191,11 @@
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Band der unerhörten Gebete": [
@@ -204,19 +209,19 @@
     {
       "spieler": "Avid",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
     {
       "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
