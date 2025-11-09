@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Stich des Todes": [
@@ -52,7 +52,12 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
+    },
+    {
+      "spieler": "Evosolara",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Augenstrangkordel": [
@@ -74,15 +79,10 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der dunklen Stürme": [
-    {
-      "spieler": "Shyxi",
-      "klasse": "Magier",
-      "anzahl": 11
-    },
     {
       "spieler": "Casuka",
       "klasse": "Hexenmeister",
@@ -91,25 +91,10 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
-  "Stulpen der Vernichtung": [
-    {
-      "spieler": "Âmbition",
-      "klasse": "Krieger",
-      "anzahl": 6
-    },
-    {
-      "spieler": "Ambition",
-      "klasse": "Krieger",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Stahlwille",
-      "klasse": "Krieger",
-      "anzahl": 4
-    }
+  "Stulpen der Vernichtung": [    
   ],
   "Jom Gabbar": [
     {
@@ -120,7 +105,7 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des Märtyrers": [
@@ -128,20 +113,30 @@
       "spieler": "Chores",
       "klasse": "Paladin",
       "anzahl": 2
+    },
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Amulett von Vek'nilash": [
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Gnomlord",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Ring des Göttertöters": [
@@ -155,21 +150,17 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Umhang des Verschlungenen": [
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Auge von C'Thun": [
-    {
-      "spieler": "Dosentee",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
+    
   ]
 }
