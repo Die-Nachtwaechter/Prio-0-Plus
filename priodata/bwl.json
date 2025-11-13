@@ -8,29 +8,29 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Floppi",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Villanelle",
@@ -45,7 +45,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Bjame",
@@ -60,7 +60,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Dosentee",
@@ -87,7 +87,7 @@
     {
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der Verjüngung": [
@@ -109,12 +109,12 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
@@ -134,21 +134,16 @@
   ],
   "Chromatische Stiefel": [
     {
-      "spieler": "Âmbition",
-      "klasse": "Krieger",
-      "anzahl": 8
-    },
-    {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein des Gedankensprungs": [
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
@@ -163,7 +158,7 @@
     {
       "spieler": "Wadenbeißer",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Energieerfüllte Gamaschen": [],
@@ -171,6 +166,13 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
+      "anzahl": 2
+    }
+  ],
+  "Chromatisch gehärtetes Schwert": [
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
