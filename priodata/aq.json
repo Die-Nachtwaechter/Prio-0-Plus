@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Stich des Todes": [
@@ -52,12 +52,12 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Augenstrangkordel": [
@@ -79,7 +79,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -91,10 +91,20 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Shyxi",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
-  "Stulpen der Vernichtung": [    
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Stahlwille",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
   ],
   "Jom Gabbar": [
     {
@@ -105,7 +115,7 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Ring des Märtyrers": [
@@ -117,26 +127,26 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Amulett von Vek'nilash": [
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Klarsicht": [
     {
       "spieler": "Healistdurch",
       "klasse": "Paladin",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Ring des Göttertöters": [
@@ -150,17 +160,21 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Umhang des Verschlungenen": [
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Auge von C'Thun": [
-    
+    {
+      "spieler": "Dosentee",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
   ]
 }
