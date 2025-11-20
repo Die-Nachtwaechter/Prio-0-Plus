@@ -13,29 +13,34 @@
     {
       "spieler": "Floppi",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
+    },
+    {
+      "spieler": "Wadenbeißer",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Midania",
       "klasse": "Druide",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Xers",
@@ -60,7 +65,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Dosentee",
@@ -87,7 +92,7 @@
     {
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Edelstein der Verjüngung": [
@@ -109,12 +114,12 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
@@ -134,16 +139,26 @@
   ],
   "Chromatische Stiefel": [
     {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 8
+    },
+    {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Ambition",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein des Gedankensprungs": [
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
@@ -153,7 +168,13 @@
       "anzahl": 3
     }
   ],
-  "Armschienen der arkanen Präzision": [],
+  "Armschienen der arkanen Präzision": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
   "Band der erzwungenen Konzentration": [
     {
       "spieler": "Wadenbeißer",
@@ -166,14 +187,14 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Chromatisch gehärtetes Schwert": [
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
