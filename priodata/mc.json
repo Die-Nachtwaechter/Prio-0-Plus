@@ -17,17 +17,12 @@
     }
   ],
   "Band der Ausbrennung": [
-    {
-      "spieler": "Mera",
-      "klasse": "Druide",
-      "anzahl": 6
-    }
   ],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Jôncenà",
@@ -37,7 +32,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Ippok",
@@ -46,23 +41,28 @@
     }
   ],
   "Gurt des Ansturms": [],
-  "Halsschmuck des Feuerlords": [],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Tresuri",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
   "Wilde Wachstums-Schiftung": [],
   "Kernhundzahn": [
     {
       "spieler": "Ellayana",
       "klasse": "Jäger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Schläger-Mal": [],
-  "Mana entfachende Kordel": [
-  ],
+  "Mana entfachende Kordel": [],
   "Talisman der ephemeren Macht": [
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
