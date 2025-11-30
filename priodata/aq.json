@@ -13,7 +13,7 @@
     {
       "spieler": "Shredder",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Shiftie",
@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Stich des Todes": [
@@ -53,6 +53,11 @@
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 7
+    },
+    {
+      "spieler": "Vintersol",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Augenstrangkordel": [
@@ -74,7 +79,12 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
+    },
+    {
+      "spieler": "Eotling",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -84,18 +94,13 @@
       "anzahl": 1
     },
     {
-      "spieler": "Tresuri",
-      "klasse": "Magier",
-      "anzahl": 4
-    },
-    {
-      "spieler": "Shyxi",
-      "klasse": "Magier",
-      "anzahl": 1
-    },
-    {
       "spieler": "Arie",
       "klasse": "Magier",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ],
@@ -108,7 +113,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Jom Gabbar": [
@@ -132,7 +137,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Amulett von Vek'nilash": [
@@ -152,6 +157,11 @@
       "spieler": "Healistdurch",
       "klasse": "Paladin",
       "anzahl": 6
+    },
+    {
+      "spieler": "Patriona",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Ring des Göttertöters": [
@@ -165,7 +175,7 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Umhang des Verschlungenen": [
@@ -176,10 +186,5 @@
     }
   ],
   "Auge von C'Thun": [
-    {
-      "spieler": "Dosentee",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
   ]
 }
