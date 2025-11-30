@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Stich des Todes": [
@@ -53,11 +53,6 @@
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 7
-    },
-    {
-      "spieler": "Evosolara",
-      "klasse": "Priester",
-      "anzahl": 2
     }
   ],
   "Augenstrangkordel": [
@@ -79,7 +74,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -91,10 +86,15 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Shyxi",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 1
     }
@@ -102,6 +102,11 @@
   "Stulpen der Vernichtung": [
     {
       "spieler": "Stahlwille",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Zimzarek",
       "klasse": "Krieger",
       "anzahl": 1
     }
@@ -115,7 +120,7 @@
     {
       "spieler": "Krüppler",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Ring des Märtyrers": [
@@ -127,14 +132,14 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Amulett von Vek'nilash": [
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Gnomlord",
@@ -160,7 +165,7 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Umhang des Verschlungenen": [
