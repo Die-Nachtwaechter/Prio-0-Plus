@@ -6,41 +6,36 @@
       "anzahl": 10
     },
     {
-      "spieler": "Joi",
-      "klasse": "Hexenmeister",
-      "anzahl": 12
-    },
-    {
-      "spieler": "Floppi",
-      "klasse": "Magier",
-      "anzahl": 6
-    },
-    {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 7
     },
     {
       "spieler": "Wadenbeißer",
       "klasse": "Hexenmeister",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Shinko",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
-      "spieler": "Midania",
-      "klasse": "Druide",
-      "anzahl": 15
-    },
-    {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 15
+      "anzahl": 17
     },
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 11
     },
     {
       "spieler": "Xers",
@@ -93,6 +88,11 @@
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
       "anzahl": 3
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Edelstein der Verjüngung": [
@@ -104,7 +104,7 @@
     {
       "spieler": "Snow",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Patriona",
@@ -114,12 +114,12 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 7
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 6
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
@@ -172,7 +172,7 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 3
     }
   ],
   "Band der erzwungenen Konzentration": [
@@ -187,14 +187,14 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Chromatisch gehärtetes Schwert": [
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 4
     }
   ]
 }
