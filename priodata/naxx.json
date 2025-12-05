@@ -13,20 +13,25 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Edelstein der gefangenen Unschuld": [
+    {
+      "spieler": "Silverhaze",
+      "klasse": "Magier",
+      "anzahl": 5
+    },
     {
       "spieler": "Xerxes",
       "klasse": "Magier",
@@ -55,6 +60,11 @@
       "anzahl": 1
     },
     {
+      "spieler": "Sinftw",
+      "klasse": "Priester",
+      "anzahl": 11
+    },
+    {
       "spieler": "Tiru",
       "klasse": "Paladin",
       "anzahl": 11
@@ -62,12 +72,12 @@
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Sandyrella",
@@ -77,7 +87,12 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
+    },
+    {
+      "spieler": "Sinftw",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Umhang der Wundnaht": [
@@ -110,6 +125,16 @@
       "spieler": "Snow",
       "klasse": "Druide",
       "anzahl": 2
+    },
+    {
+      "spieler": "Tiru",
+      "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Patriona",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -121,9 +146,19 @@
   ],
   "Gressil, Vorbote des Untergangs": [
     {
+      "spieler": "Zainab",
+      "klasse": "Schurke",
+      "anzahl": 7
+    },
+    {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
+    },
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
+      "anzahl": 5
     },
     {
       "spieler": "Âmbition",
@@ -133,9 +168,14 @@
   ],
   "Kuss der Spinne": [
     {
+      "spieler": "Bjame",
+      "klasse": "Krieger",
+      "anzahl": 7
+    },
+    {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -148,9 +188,19 @@
       "spieler": "Buca",
       "klasse": "Hexenmeister",
       "anzahl": 2
+    },
+    {
+      "spieler": "Buffin",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Wappen des Schlächters": [
+    {
+      "spieler": "Kimble",
+      "klasse": "Jäger",
+      "anzahl": 7
+    },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
@@ -180,7 +230,7 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band der unerhörten Gebete": [
@@ -194,25 +244,32 @@
     {
       "spieler": "Avid",
       "klasse": "Jäger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
     {
       "spieler": "Zainab",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Gamaschen des Widerspruchs": [
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
+      "anzahl": 2
+    }
+  ],
+  "Gurt des Mentors": [
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
