@@ -20,7 +20,7 @@ const BWL_items = [
     {name: "Neltharions Träne", prios: ["Hexenmeister", "Magier"]},
     {name: "Drachenfangzahn-Talisman", prios: ["Schurke", "Krieger", "Druide"]},
     {name: "Chromatisch gehärtetes Schwert", prios: ["Schurke", "Krieger"]},
-    {name: "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms", prios: ["Schurke", "Krieger"]},
+    {name: "Maladath, Runenverzierte Klinge des schwarzen Drac", prios: ["Schurke", "Krieger"]},
     {name: "Prestors Talisman der Verschwörung", prios: ["Schurke", "Jäger", "Druide"]},
     {name: "Lok'Amir il Romathis", prios: ["Druide", "Paladin"]},
     {name: "Ringos Blizzardstiefel", prios: ["Magier"]},
