@@ -8,29 +8,19 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 7
-    },
-    {
-      "spieler": "Wadenbeißer",
-      "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 8
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Shinko",
-      "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 3
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Tayni",
       "klasse": "Schurke",
-      "anzahl": 17
+      "anzahl": 18
     },
     {
       "spieler": "Villanelle",
@@ -119,14 +109,7 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 6
-    }
-  ],
-  "Maladath, Runenverzierte Klinge des schwarzen Drachenschwarms": [
-    {
-      "spieler": "Zimzarek",
-      "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 7
     }
   ],
   "Lok'Amir il Romathis": [],
@@ -172,7 +155,7 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Band der erzwungenen Konzentration": [
@@ -195,6 +178,18 @@
       "spieler": "Saturo",
       "klasse": "Krieger",
       "anzahl": 4
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drac": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 5
+    },
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ]
 }
