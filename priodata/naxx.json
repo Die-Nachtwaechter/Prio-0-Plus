@@ -13,17 +13,17 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -77,7 +77,7 @@
     {
       "spieler": "Solax",
       "klasse": "Paladin",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Sandyrella",
@@ -87,7 +87,7 @@
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Sinftw",
@@ -119,27 +119,27 @@
     {
       "spieler": "Chores",
       "klasse": "Paladin",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Snow",
       "klasse": "Druide",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -158,7 +158,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Perlenpaula",
@@ -197,7 +197,7 @@
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Wappen des Schlächters": [
@@ -252,13 +252,12 @@
       "anzahl": 5
     }
   ],
-  "Iblis, Klinge des gefallenen Engels": [
-  ],
+  "Iblis, Klinge des gefallenen Engels": [],
   "Gamaschen des Widerspruchs": [
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Gurt des Mentors": [
