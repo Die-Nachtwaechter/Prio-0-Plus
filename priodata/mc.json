@@ -13,7 +13,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band der Ausbrennung": [
@@ -27,12 +27,12 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Gurt des Ansturms": [],
@@ -40,7 +40,12 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Wilde Wachstums-Schiftung": [],
@@ -55,10 +60,9 @@
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Mana entfachende Kordel": [],
-  "Talisman der ephemeren Macht": [
-  ]
+  "Talisman der ephemeren Macht": []
 }
