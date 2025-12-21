@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Stich des Todes": [
@@ -57,6 +57,11 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -80,11 +85,6 @@
       "spieler": "Petrosilius",
       "klasse": "Magier",
       "anzahl": 6
-    },
-    {
-      "spieler": "Eotling",
-      "klasse": "Hexenmeister",
-      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -96,12 +96,12 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der Vernichtung": [
@@ -113,7 +113,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Jom Gabbar": [
@@ -126,6 +126,11 @@
       "spieler": "Krüppler",
       "klasse": "Schurke",
       "anzahl": 6
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Ring des Märtyrers": [
@@ -161,7 +166,7 @@
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Göttertöters": [
@@ -186,5 +191,22 @@
     }
   ],
   "Auge von C'Thun": [
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Tresuri",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Abzeichen der Schwarmwache": [
+    {
+      "spieler": "Shredder",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
   ]
 }
