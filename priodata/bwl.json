@@ -8,12 +8,12 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -35,12 +35,12 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Visenna",
@@ -50,7 +50,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Dosentee",
@@ -87,7 +87,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der Verjüngung": [
@@ -109,12 +109,12 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Lok'Amir il Romathis": [],
@@ -145,6 +145,11 @@
       "spieler": "Saturo",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Saturo-everlook",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -152,6 +157,11 @@
       "spieler": "Kera",
       "klasse": "Magier",
       "anzahl": 6
+    },
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
