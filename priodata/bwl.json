@@ -8,12 +8,12 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -25,7 +25,7 @@
     {
       "spieler": "Villanelle",
       "klasse": "Schurke",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Xers",
@@ -35,12 +35,12 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Bjame",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Visenna",
@@ -50,7 +50,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Dosentee",
@@ -83,6 +83,11 @@
       "spieler": "Relentless",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Kartell",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Edelstein der Verjüngung": [
@@ -104,12 +109,12 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Lok'Amir il Romathis": [],
@@ -133,6 +138,11 @@
     },
     {
       "spieler": "Ambition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Saturo",
       "klasse": "Krieger",
       "anzahl": 1
     }
