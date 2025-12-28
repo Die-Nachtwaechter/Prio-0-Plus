@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Stich des Todes": [
@@ -55,11 +55,6 @@
       "anzahl": 7
     },
     {
-      "spieler": "Vintersol",
-      "klasse": "Paladin",
-      "anzahl": 2
-    },
-    {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
       "anzahl": 1
@@ -67,7 +62,7 @@
   ],
   "Augenstrangkordel": [
     {
-      "spieler": "Iceberry",
+      "spieler": "Tresuri",
       "klasse": "Magier",
       "anzahl": 1
     },
@@ -75,16 +70,6 @@
       "spieler": "Nasadax",
       "klasse": "Hexenmeister",
       "anzahl": 1
-    },
-    {
-      "spieler": "Gnomlord",
-      "klasse": "Hexenmeister",
-      "anzahl": 8
-    },
-    {
-      "spieler": "Petrosilius",
-      "klasse": "Magier",
-      "anzahl": 6
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -96,12 +81,17 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Stulpen der Vernichtung": [
@@ -113,7 +103,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Jom Gabbar": [
@@ -167,6 +157,11 @@
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 2
+    },
+    {
+      "spieler": "Vonmir",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Ring des Göttertöters": [
@@ -199,6 +194,11 @@
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Vintersol",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],

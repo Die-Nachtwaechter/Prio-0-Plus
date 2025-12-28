@@ -18,11 +18,6 @@
   ],
   "Drachenfangzahn-Talisman": [
     {
-      "spieler": "Tayni",
-      "klasse": "Schurke",
-      "anzahl": 18
-    },
-    {
       "spieler": "Villanelle",
       "klasse": "Schurke",
       "anzahl": 12
@@ -127,19 +122,9 @@
   ],
   "Chromatische Stiefel": [
     {
-      "spieler": "Âmbition",
-      "klasse": "Krieger",
-      "anzahl": 8
-    },
-    {
       "spieler": "Stahlwille",
       "klasse": "Krieger",
       "anzahl": 3
-    },
-    {
-      "spieler": "Ambition",
-      "klasse": "Krieger",
-      "anzahl": 1
     },
     {
       "spieler": "Saturo",
@@ -179,11 +164,6 @@
     }
   ],
   "Band der erzwungenen Konzentration": [
-    {
-      "spieler": "Wadenbeißer",
-      "klasse": "Hexenmeister",
-      "anzahl": 2
-    }
   ],
   "Energieerfüllte Gamaschen": [],
   "Stiefel des reinen Gedankens": [
