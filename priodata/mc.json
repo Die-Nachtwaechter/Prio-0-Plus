@@ -16,8 +16,7 @@
       "anzahl": 2
     }
   ],
-  "Band der Ausbrennung": [
-  ],
+  "Band der Ausbrennung": [],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Jôncenà",
@@ -32,7 +31,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Gurt des Ansturms": [],
@@ -61,8 +60,20 @@
       "spieler": "Villanelle",
       "klasse": "Schurke",
       "anzahl": 2
+    },
+    {
+      "spieler": "Shredder",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Mana entfachende Kordel": [],
-  "Talisman der ephemeren Macht": []
+  "Talisman der ephemeren Macht": [],
+  "Alte Kernlederhandschuhe": [
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ]
 }
