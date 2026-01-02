@@ -13,7 +13,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 15
+      "anzahl": 16
     },
     {
       "spieler": "Âmbition",
@@ -23,7 +23,7 @@
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -40,7 +40,7 @@
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Auge des Todes": [
@@ -77,11 +77,21 @@
     {
       "spieler": "Sandyrella",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Sinftw",
       "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Snow",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Anouk",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -119,7 +129,7 @@
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -155,7 +165,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -173,6 +183,11 @@
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
       "anzahl": 3
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Wappen des Schlächters": [
@@ -196,7 +211,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -215,7 +230,7 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Band der unerhörten Gebete": [
@@ -237,7 +252,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Gurt des Mentors": [
@@ -251,7 +266,7 @@
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ]
 }
