@@ -28,11 +28,6 @@
   ],
   "Edelstein der gefangenen Unschuld": [
     {
-      "spieler": "Silverhaze",
-      "klasse": "Magier",
-      "anzahl": 5
-    },
-    {
       "spieler": "Xerxes",
       "klasse": "Magier",
       "anzahl": 3
@@ -45,44 +40,9 @@
   ],
   "Auge des Todes": [
     {
-      "spieler": "Chores",
-      "klasse": "Paladin",
-      "anzahl": 9
-    },
-    {
-      "spieler": "Poel",
-      "klasse": "Paladin",
-      "anzahl": 5
-    },
-    {
-      "spieler": "Liaha",
-      "klasse": "Priester",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Sinftw",
-      "klasse": "Priester",
-      "anzahl": 11
-    },
-    {
-      "spieler": "Tiru",
-      "klasse": "Paladin",
-      "anzahl": 11
-    },
-    {
-      "spieler": "Kerwin",
-      "klasse": "Priester",
-      "anzahl": 9
-    },
-    {
       "spieler": "Sandyrella",
       "klasse": "Priester",
       "anzahl": 3
-    },
-    {
-      "spieler": "Sinftw",
-      "klasse": "Magier",
-      "anzahl": 1
     },
     {
       "spieler": "Snow",
