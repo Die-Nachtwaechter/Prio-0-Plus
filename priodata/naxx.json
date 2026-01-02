@@ -13,12 +13,12 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Postbotin",
@@ -40,7 +40,7 @@
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Auge des Todes": [
@@ -75,19 +75,14 @@
       "anzahl": 9
     },
     {
-      "spieler": "Solax",
-      "klasse": "Paladin",
-      "anzahl": 10
-    },
-    {
       "spieler": "Sandyrella",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Brasok",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Sinftw",
@@ -122,24 +117,19 @@
       "anzahl": 8
     },
     {
-      "spieler": "Snow",
-      "klasse": "Druide",
-      "anzahl": 4
-    },
-    {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Hammer des wirbelnden Nethers": [
@@ -158,7 +148,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Perlenpaula",
@@ -180,7 +170,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -217,6 +207,11 @@
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
       "anzahl": 4
+    },
+    {
+      "spieler": "Pearli",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -235,7 +230,7 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Band der unerhörten Gebete": [
@@ -257,13 +252,20 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Gurt des Mentors": [
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Verderbter Aschenbringer": [
+    {
+      "spieler": "Uawg",
+      "klasse": "Jäger",
       "anzahl": 1
     }
   ]
