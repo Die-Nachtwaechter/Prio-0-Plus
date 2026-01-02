@@ -13,7 +13,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Âmbition",
@@ -40,7 +40,7 @@
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Auge des Todes": [
@@ -80,11 +80,6 @@
       "anzahl": 2
     },
     {
-      "spieler": "Brasok",
-      "klasse": "Priester",
-      "anzahl": 9
-    },
-    {
       "spieler": "Sinftw",
       "klasse": "Magier",
       "anzahl": 1
@@ -119,15 +114,10 @@
     {
       "spieler": "Tiru",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Kerwin",
-      "klasse": "Priester",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 4
     }
@@ -146,11 +136,6 @@
       "anzahl": 7
     },
     {
-      "spieler": "Bergomann",
-      "klasse": "Krieger",
-      "anzahl": 5
-    },
-    {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
       "anzahl": 5
@@ -158,7 +143,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Kuss der Spinne": [
@@ -170,7 +155,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -211,7 +196,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -230,7 +215,7 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Band der unerhörten Gebete": [
@@ -252,7 +237,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Gurt des Mentors": [
@@ -266,7 +251,7 @@
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
