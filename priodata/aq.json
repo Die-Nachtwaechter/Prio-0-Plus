@@ -23,7 +23,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Stich des Todes": [
@@ -57,17 +57,22 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Augenstrangkordel": [
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Nasadax",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Joi",
       "klasse": "Hexenmeister",
       "anzahl": 1
     }
@@ -81,7 +86,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Joi",
@@ -91,7 +96,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der Vernichtung": [
@@ -103,7 +108,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Jom Gabbar": [
@@ -161,7 +166,7 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Göttertöters": [
@@ -199,7 +204,7 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Abzeichen der Schwarmwache": [
