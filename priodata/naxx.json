@@ -13,7 +13,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 16
+      "anzahl": 17
     },
     {
       "spieler": "Âmbition",
@@ -23,7 +23,7 @@
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -37,15 +37,15 @@
     {
       "spieler": "Sandyrella",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Snow",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
-      "spieler": "Anouk",
+      "spieler": "Vintersol",
       "klasse": "Paladin",
       "anzahl": 1
     }
@@ -64,23 +64,22 @@
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
-  "Hammer des wirbelnden Nethers": [
-  ],
+  "Hammer des wirbelnden Nethers": [],
   "Gressil, Vorbote des Untergangs": [
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Kuss der Spinne": [
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -97,7 +96,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Wappen des Schlächters": [
@@ -111,7 +110,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -125,7 +124,7 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Band der unerhörten Gebete": [
@@ -135,28 +134,22 @@
       "anzahl": 1
     }
   ],
-  "Nerubischer Sklavenjäger": [
-  ],
+  "Nerubischer Sklavenjäger": [],
   "Iblis, Klinge des gefallenen Engels": [],
   "Gamaschen des Widerspruchs": [
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Gurt des Mentors": [
-    {
-      "spieler": "Perlenpaula",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
   ],
   "Verderbter Aschenbringer": [
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ]
 }
