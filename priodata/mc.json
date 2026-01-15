@@ -31,7 +31,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Gurt des Ansturms": [],
@@ -64,6 +64,11 @@
     {
       "spieler": "Shredder",
       "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Schürkin",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
