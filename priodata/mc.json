@@ -30,11 +30,6 @@
   ],
   "Ring des rasanten Schlags": [
     {
-      "spieler": "Jôncenà",
-      "klasse": "Schurke",
-      "anzahl": 1
-    },
-    {
       "spieler": "Bergomann",
       "klasse": "Krieger",
       "anzahl": 5
@@ -47,11 +42,6 @@
   ],
   "Gurt des Ansturms": [],
   "Halsschmuck des Feuerlords": [
-    {
-      "spieler": "Tresuri",
-      "klasse": "Magier",
-      "anzahl": 3
-    },
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
@@ -67,21 +57,6 @@
     }
   ],
   "Schläger-Mal": [
-    {
-      "spieler": "Villanelle",
-      "klasse": "Schurke",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Shredder",
-      "klasse": "Schurke",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Schürkin",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
   ],
   "Mana entfachende Kordel": [],
   "Talisman der ephemeren Macht": [],
