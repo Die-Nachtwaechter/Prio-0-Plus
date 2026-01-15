@@ -8,15 +8,26 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Schürkin",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
-  "Band der Ausbrennung": [],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Ollebolle",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Jôncenà",
@@ -26,7 +37,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Ippok",
