@@ -55,34 +55,14 @@
   ],
   "Prestors Talisman der Verschwörung": [
     {
-      "spieler": "Shredder",
-      "klasse": "Schurke",
-      "anzahl": 3
-    },
-    {
       "spieler": "Belakors",
       "klasse": "Schurke",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Uawg",
-      "klasse": "Jäger",
       "anzahl": 1
     },
     {
       "spieler": "Shadowsniper",
       "klasse": "Jäger",
       "anzahl": 3
-    },
-    {
-      "spieler": "Relentless",
-      "klasse": "Schurke",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Kartell",
-      "klasse": "Schurke",
-      "anzahl": 2
     }
   ],
   "Edelstein der Verjüngung": [
@@ -109,7 +89,7 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 10
+      "anzahl": 9
     }
   ],
   "Lok'Amir il Romathis": [],
