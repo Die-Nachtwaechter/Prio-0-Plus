@@ -1,11 +1,6 @@
 {
   "Neltharions Träne": [
     {
-      "spieler": "Buca",
-      "klasse": "Hexenmeister",
-      "anzahl": 10
-    },
-    {
       "spieler": "Tresuri",
       "klasse": "Magier",
       "anzahl": 12
@@ -17,11 +12,6 @@
     }
   ],
   "Drachenfangzahn-Talisman": [
-    {
-      "spieler": "Villanelle",
-      "klasse": "Schurke",
-      "anzahl": 12
-    },
     {
       "spieler": "Xers",
       "klasse": "Schurke",
@@ -43,16 +33,6 @@
       "anzahl": 4
     },
     {
-      "spieler": "Relentless",
-      "klasse": "Schurke",
-      "anzahl": 8
-    },
-    {
-      "spieler": "Dosentee",
-      "klasse": "Krieger",
-      "anzahl": 1
-    },
-    {
       "spieler": "Ippok",
       "klasse": "Krieger",
       "anzahl": 1
@@ -68,28 +48,13 @@
       "spieler": "Belakors",
       "klasse": "Schurke",
       "anzahl": 1
-    },
-    {
-      "spieler": "Shadowsniper",
-      "klasse": "Jäger",
-      "anzahl": 3
     }
   ],
   "Edelstein der Verjüngung": [
     {
-      "spieler": "Chores",
-      "klasse": "Paladin",
-      "anzahl": 1
-    },
-    {
       "spieler": "Snow",
       "klasse": "Druide",
       "anzahl": 2
-    },
-    {
-      "spieler": "Patriona",
-      "klasse": "Priester",
-      "anzahl": 4
     },
     {
       "spieler": "Evosolara",
@@ -99,16 +64,11 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 11
+      "anzahl": 12
     }
   ],
   "Lok'Amir il Romathis": [],
   "Band aus reinem Elementium": [
-    {
-      "spieler": "Chores",
-      "klasse": "Paladin",
-      "anzahl": 1
-    },
     {
       "spieler": "Snow",
       "klasse": "Druide",
@@ -150,11 +110,6 @@
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
-    {
-      "spieler": "Shadowsniper",
-      "klasse": "Jäger",
-      "anzahl": 3
-    },
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
