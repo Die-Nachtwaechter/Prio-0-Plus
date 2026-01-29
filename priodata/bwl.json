@@ -1,14 +1,9 @@
 {
   "Neltharions Träne": [
     {
-      "spieler": "Tresuri",
-      "klasse": "Magier",
-      "anzahl": 12
-    },
-    {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -35,12 +30,12 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -59,12 +54,12 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 12
+      "anzahl": 13
     }
   ],
   "Lok'Amir il Romathis": [],
@@ -94,26 +89,21 @@
   ],
   "Edelstein des Gedankensprungs": [
     {
-      "spieler": "Kera",
-      "klasse": "Magier",
-      "anzahl": 6
-    },
-    {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Halloran",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -141,7 +131,7 @@
     {
       "spieler": "Schürkin",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
