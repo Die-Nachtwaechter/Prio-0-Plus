@@ -25,14 +25,14 @@
     {
       "spieler": "Ollebolle",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Ippok",
@@ -56,9 +56,14 @@
       "anzahl": 6
     }
   ],
-  "Schläger-Mal": [
+  "Schläger-Mal": [],
+  "Mana entfachende Kordel": [
+    {
+      "spieler": "Halloran",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
   ],
-  "Mana entfachende Kordel": [],
   "Talisman der ephemeren Macht": [],
   "Alte Kernlederhandschuhe": [
     {
