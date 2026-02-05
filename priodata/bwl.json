@@ -3,7 +3,17 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 10
+    },
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -30,11 +40,21 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 4
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
+      "anzahl": 4
+    },
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ragnard",
+      "klasse": "Krieger",
       "anzahl": 2
     }
   ],
@@ -54,12 +74,17 @@
     {
       "spieler": "Evosolara",
       "klasse": "Priester",
-      "anzahl": 12
+      "anzahl": 14
     },
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 13
+      "anzahl": 15
+    },
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
     }
   ],
   "Lok'Amir il Romathis": [],
@@ -96,14 +121,14 @@
     {
       "spieler": "Halloran",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 3
+      "anzahl": 5
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -143,6 +168,16 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Akhira",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ]
