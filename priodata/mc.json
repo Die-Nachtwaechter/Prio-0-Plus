@@ -8,7 +8,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Zimzarek",
@@ -25,14 +25,14 @@
     {
       "spieler": "Ollebolle",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Ippok",
@@ -69,7 +69,7 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
