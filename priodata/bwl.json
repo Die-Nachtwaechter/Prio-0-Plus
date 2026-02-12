@@ -8,12 +8,12 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -45,17 +45,17 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -79,12 +79,12 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 15
+      "anzahl": 16
     },
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Lok'Amir il Romathis": [],
@@ -93,6 +93,11 @@
       "spieler": "Snow",
       "klasse": "Druide",
       "anzahl": 2
+    },
+    {
+      "spieler": "Blitzlicht",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Chromatische Stiefel": [
@@ -128,7 +133,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Armschienen der arkanen Präzision": [
