@@ -3,48 +3,38 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 2
     },
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 1
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 1
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Postbotin",
-      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
   "Edelstein der Verjüngung": [
     {
-      "spieler": "Ollebolle",
-      "klasse": "Paladin",
-      "anzahl": 1
-    },
-    {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 1
     },
     {
       "spieler": "Auxeroise",
