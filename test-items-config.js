@@ -1,4 +1,4 @@
-const MC_items = [
+export const MC_items = [
     {name: "Halsschmuck des Feuerlords", prios: ["Magier", "Hexenmeister"]},
     {name: "Band von Accuria", prios: ["Krieger", "Schurke", "Druide"]},
     {name: "Gurt des Ansturms", prios: ["Krieger"]},
@@ -16,8 +16,7 @@ const MC_items = [
     {name: "Mana entfachende Kordel", prios: ["Magier", "Hexenmeister"]},
 ];
 
-const BWL_items = [
-    {name: "Edelstein der Verjüngung", prios: ["Druide", "Priester", "Paladin"]},
+export const BWL_items = [
     {name: "Neltharions Träne", prios: ["Hexenmeister", "Magier"]},
     {name: "Drachenfangzahn-Talisman", prios: ["Schurke", "Krieger", "Druide"]},
     {name: "Chromatisch gehärtetes Schwert", prios: ["Schurke", "Krieger"]},
@@ -41,7 +40,7 @@ const BWL_items = [
     {name: "Stiefel des reinen Gedankens", prios: ["Druide", "Priester", "Paladin"]},
 ];
 
-const AQ_items = [
+export const AQ_items = [
     {name: "Imperiale Qirajiinsignie", prios: ["Hexenmeister", "Magier", "Druide", "Paladin", "Priester"]},
     {name: "Imperiale Qirajiwaffe", prios: ["Krieger", "Jäger", "Schurke"]},
     {name: "Gürtel der endlosen Pein", prios: ["Schurke", "Druide"]},
@@ -76,7 +75,7 @@ const AQ_items = [
     {name: "Wurmschuppenblocker", prios: ["Paladin"]},
 ];
 
-const NAXX_items = [
+export const NAXX_items = [
     {name: "Nerubischer Sklavenjäger", prios: ["Jäger"]},
     {name: "Wappen des Schlächters", prios: ["Krieger", "Schurke", "Jäger", "Druide"]},
     {name: "Gressil, Vorbote des Untergangs", prios: ["Krieger", "Schurke"]},
