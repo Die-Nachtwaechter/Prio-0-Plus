@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Cleola",
@@ -19,11 +19,6 @@
     }
   ],
   "Drachenfangzahn-Talisman": [
-    {
-      "spieler": "Ippok",
-      "klasse": "Krieger",
-      "anzahl": 1
-    },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
