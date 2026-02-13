@@ -38,6 +38,7 @@ export const BWL_items = [
     {name: "Band aus reinem Elementium", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Energieerfüllte Gamaschen", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Stiefel des reinen Gedankens", prios: ["Druide", "Priester", "Paladin"]},
+    {name: "Edelstein der Verjüngung", prios: ["Paladin", "Priester", "Druide"]},
 ];
 
 export const AQ_items = [
