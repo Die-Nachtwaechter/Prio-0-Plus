@@ -3,30 +3,35 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
@@ -38,6 +43,18 @@
     },
     {
       "spieler": "Vintersol",
+      "klasse": "Paladin",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Blitzlicht",
       "klasse": "Paladin",
       "anzahl": 1
     }
