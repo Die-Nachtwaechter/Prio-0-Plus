@@ -11,8 +11,9 @@ const MC_items = [
     {name: "Kernhundzahn", prios: ["Krieger", "Schurke", "Jäger"]},
     {name: "Klinge des Verderbens", prios: ["Krieger", "Schurke"]},
     {name: "Uraltes versteinertes Blatt", prios: ["Jäger"]},
-    {name: "Wilde Wachstumsschiftung", prios: ["Druide", "Paladin"]},
+    {name: "Wilde Wachstums-Schiftung", prios: ["Druide", "Paladin"]},
     {name: "Auge der Offenbarung", prios: ["Priester"]},
+    {name: "Mana entfachende Kordel", prios: ["Magier", "Hexenmeister"]},
 ];
 
 const BWL_items = [
@@ -34,7 +35,7 @@ const BWL_items = [
     {name: "Angelista's Gespür", prios: ["Hexenmeister"]},
     {name: "Chromatische Stiefel", prios: ["Krieger"]},
     {name: "Stiefel der Schattenflamme", prios: ["Schurke", "Druide"]},
-    {name: "Ashjre'thul, Armbrust der Pain", prios: ["Jäger"]},
+    {name: "Ashjre'thul, Armbrust der Pein", prios: ["Jäger"]},
     {name: "Band aus reinem Elementium", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Energieerfüllte Gamaschen", prios: ["Druide", "Priester", "Paladin"]},
     {name: "Stiefel des reinen Gedankens", prios: ["Druide", "Priester", "Paladin"]},
