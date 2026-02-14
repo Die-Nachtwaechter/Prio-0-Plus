@@ -11,11 +11,6 @@
       "anzahl": 2
     },
     {
-      "spieler": "Ragnard",
-      "klasse": "Krieger",
-      "anzahl": 18
-    },
-    {
       "spieler": "Âmbition",
       "klasse": "Krieger",
       "anzahl": 7
@@ -67,7 +62,6 @@
       "anzahl": 7
     }
   ],
-  "Hammer des wirbelnden Nethers": [],
   "Gressil, Vorbote des Untergangs": [
     {
       "spieler": "Âmbition",
@@ -139,8 +133,6 @@
       "anzahl": 1
     }
   ],
-  "Nerubischer Sklavenjäger": [],
-  "Iblis, Klinge des gefallenen Engels": [],
   "Gamaschen des Widerspruchs": [
     {
       "spieler": "Petrosilius",
@@ -148,7 +140,6 @@
       "anzahl": 8
     }
   ],
-  "Gurt des Mentors": [],
   "Verderbter Aschenbringer": [
     {
       "spieler": "Uawg",
