@@ -16,5 +16,14 @@
     "timestamp": "2026-02-13T17:30:23.826158Z",
     "raid": "bwl",
     "source": "manual"
+  },
+  {
+    "item": "Auge des Todes",
+    "spieler": "Vintersol",
+    "klasse": "Paladin",
+    "anzahl": 1,
+    "timestamp": "2026-02-14T19:39:50.489252Z",
+    "raid": "naxx",
+    "source": "manual"
   }
 ]
