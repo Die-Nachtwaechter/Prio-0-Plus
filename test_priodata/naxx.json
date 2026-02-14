@@ -1,86 +1,15 @@
 {
-  "Auge des Todes": [
-    {
-      "spieler": "Patriona",
-      "klasse": "Priester",
-      "anzahl": 1
-    }
-  ],
   "Verdammnisbote": [
     {
       "spieler": "Avid",
       "klasse": "Jäger",
-      "anzahl": 3
-    }
-  ],
-  "Wappen des Schlächters": [
-    {
-      "spieler": "Uawg",
-      "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Die zehrende Kälte": [
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Bergomann",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
-  ],
-  "Iblis, Klinge des gefallenen Engels": [
-    {
-      "spieler": "Zimzarek",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
-  ],
-  "Umhang der Nekropole": [
-    {
-      "spieler": "Arie",
-      "klasse": "Magier",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Pearli",
-      "klasse": "Magier",
-      "anzahl": 1
-    }
-  ],
-  "Die gebundene Essenz Saphirons": [
-    {
-      "spieler": "Petrosilius",
-      "klasse": "Magier",
-      "anzahl": 1
-    }
-  ],
-  "Verderbter Aschenbringer": [
-    {
-      "spieler": "Anouk",
-      "klasse": "Paladin",
-      "anzahl": 1
-    }
-  ],
-  "Umhang der Wundnaht": [
-    {
-      "spieler": "Dennis",
-      "klasse": "Priester",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Kerwin",
-      "klasse": "Priester",
-      "anzahl": 1
-    }
-  ],
-  "Kuss der Spinne": [
-    {
-      "spieler": "Relentless",
-      "klasse": "Schurke",
       "anzahl": 1
     }
   ]
