@@ -1,16 +1,6 @@
 {
   "Auge des Todes": [
     {
-      "spieler": "Lyrielle",
-      "klasse": "Druide",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Vintersol",
-      "klasse": "Paladin",
-      "anzahl": 1
-    },
-    {
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 1
@@ -20,7 +10,7 @@
     {
       "spieler": "Avid",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 3
     }
   ],
   "Wappen des Schlächters": [
@@ -34,7 +24,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Bergomann",
