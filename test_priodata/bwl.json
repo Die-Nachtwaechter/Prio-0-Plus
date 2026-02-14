@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Cleola",
@@ -46,6 +46,11 @@
     {
       "spieler": "Blitzlicht",
       "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Testsuri",
+      "klasse": "",
       "anzahl": 1
     }
   ]
