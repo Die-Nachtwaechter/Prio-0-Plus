@@ -14,6 +14,7 @@ export const MC_items = [
     {name: "Wilde Wachstums-Schiftung", prios: ["Druide", "Paladin"]},
     {name: "Auge der Offenbarung", prios: ["Priester"]},
     {name: "Mana entfachende Kordel", prios: ["Magier", "Hexenmeister"]},
+    {name: "Schattenschlag", prios: ["Krieger", "Magier", "Hexenmeister", "Paladin", "Priester", "Schurke", "Jäger", "Druide"]},
 ];
 
 export const BWL_items = [
