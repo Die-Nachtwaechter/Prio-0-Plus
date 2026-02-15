@@ -1,0 +1,66 @@
+{
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Jom Gabbar": [
+    {
+      "spieler": "Ellayana",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Auge von C'Thun": [
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Griff des alten Gottes": [
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Szepter des falschen Propheten": [
+    {
+      "spieler": "Ollebolle",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Gürtel der endlosen Pein": [
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
