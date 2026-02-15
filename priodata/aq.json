@@ -1,24 +1,9 @@
 {
   "Gürtel der endlosen Pein": [
     {
-      "spieler": "Veille",
-      "klasse": "Schurke",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Krüppler",
-      "klasse": "Schurke",
-      "anzahl": 2
-    },
-    {
       "spieler": "Shredder",
       "klasse": "Schurke",
       "anzahl": 6
-    },
-    {
-      "spieler": "Shiftie",
-      "klasse": "Druide",
-      "anzahl": 1
     },
     {
       "spieler": "Relentless",
@@ -32,11 +17,6 @@
     }
   ],
   "Stich des Todes": [
-    {
-      "spieler": "Veille",
-      "klasse": "Schurke",
-      "anzahl": 2
-    },
     {
       "spieler": "Belakors",
       "klasse": "Schurke",
@@ -67,19 +47,9 @@
   ],
   "Augenstrangkordel": [
     {
-      "spieler": "Tresuri",
-      "klasse": "Magier",
-      "anzahl": 4
-    },
-    {
       "spieler": "Nasadax",
       "klasse": "Hexenmeister",
       "anzahl": 1
-    },
-    {
-      "spieler": "Joi",
-      "klasse": "Hexenmeister",
-      "anzahl": 2
     },
     {
       "spieler": "Cleola",
@@ -194,11 +164,6 @@
   ],
   "Umhang der Klarsicht": [
     {
-      "spieler": "Healistdurch",
-      "klasse": "Paladin",
-      "anzahl": 6
-    },
-    {
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 2
@@ -235,16 +200,6 @@
       "spieler": "Petrosilius",
       "klasse": "Magier",
       "anzahl": 1
-    },
-    {
-      "spieler": "Tresuri",
-      "klasse": "Magier",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Vintersol",
-      "klasse": "Paladin",
-      "anzahl": 2
     },
     {
       "spieler": "Faizi",
