@@ -1,0 +1,73 @@
+{
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Jom Gabbar": [
+    {
+      "spieler": "Ellayana",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Auge von C'Thun": [
+    {
+      "spieler": "Laundry",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Shadowsniper",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Griff des alten Gottes": [
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Gürtel der endlosen Pein": [
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
