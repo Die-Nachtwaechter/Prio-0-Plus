@@ -57,14 +57,14 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Augenstrangkordel": [
     {
       "spieler": "Tresuri",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Nasadax",
@@ -86,17 +86,17 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Kera",
@@ -131,6 +131,11 @@
       "spieler": "Saturo",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Ring des Märtyrers": [
@@ -155,6 +160,11 @@
       "spieler": "Gnomlord",
       "klasse": "Hexenmeister",
       "anzahl": 2
+    },
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
@@ -171,7 +181,7 @@
     {
       "spieler": "Vonmir",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des Göttertöters": [
