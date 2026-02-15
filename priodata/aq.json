@@ -24,6 +24,11 @@
       "spieler": "Relentless",
       "klasse": "Schurke",
       "anzahl": 10
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Stich des Todes": [
@@ -57,7 +62,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Augenstrangkordel": [
@@ -75,6 +80,11 @@
       "spieler": "Joi",
       "klasse": "Hexenmeister",
       "anzahl": 2
+    },
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -86,12 +96,12 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Petrosilius",
@@ -119,6 +129,11 @@
       "spieler": "Saturo",
       "klasse": "Krieger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Jom Gabbar": [
@@ -145,7 +160,7 @@
     {
       "spieler": "Ellayana",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des Märtyrers": [
@@ -174,7 +189,7 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Umhang der Klarsicht": [
@@ -240,6 +255,21 @@
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 2
+    },
+    {
+      "spieler": "Laundry",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Shadowsniper",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
