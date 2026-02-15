@@ -57,7 +57,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Augenstrangkordel": [
@@ -86,12 +86,12 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Petrosilius",
@@ -118,7 +118,7 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Jom Gabbar": [
@@ -145,7 +145,7 @@
     {
       "spieler": "Ellayana",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Märtyrers": [
@@ -174,7 +174,7 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang der Klarsicht": [
@@ -234,12 +234,12 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Abzeichen der Schwarmwache": [
