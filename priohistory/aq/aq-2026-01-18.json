@@ -1,0 +1,54 @@
+{
+  "Auge von C'Thun": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Patriona",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Jom Gabbar": [
+    {
+      "spieler": "Ellayana",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Griff des alten Gottes": [
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ]
+}
