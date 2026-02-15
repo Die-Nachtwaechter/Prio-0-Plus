@@ -13,7 +13,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stich des Todes": [
@@ -42,7 +42,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Augenstrangkordel": [
@@ -54,7 +54,7 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -66,22 +66,22 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der Vernichtung": [
@@ -130,7 +130,7 @@
     {
       "spieler": "Ellayana",
       "klasse": "Jäger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des Märtyrers": [
@@ -186,6 +186,11 @@
       "spieler": "Vonmir",
       "klasse": "Priester",
       "anzahl": 7
+    },
+    {
+      "spieler": "Ollebolle",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Umhang des Verschlungenen": [
@@ -224,7 +229,7 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Abzeichen der Schwarmwache": [
