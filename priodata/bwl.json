@@ -1,16 +1,6 @@
 {
   "Neltharions Träne": [
     {
-      "spieler": "Kera",
-      "klasse": "Magier",
-      "anzahl": 10
-    },
-    {
-      "spieler": "Cleola",
-      "klasse": "Magier",
-      "anzahl": 4
-    },
-    {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
       "anzahl": 3
@@ -92,7 +82,6 @@
       "anzahl": 1
     }
   ],
-  "Lok'Amir il Romathis": [],
   "Band aus reinem Elementium": [
     {
       "spieler": "Snow",
@@ -127,11 +116,6 @@
       "spieler": "Cleola",
       "klasse": "Magier",
       "anzahl": 3
-    },
-    {
-      "spieler": "Halloran",
-      "klasse": "Magier",
-      "anzahl": 3
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
@@ -148,8 +132,6 @@
       "anzahl": 4
     }
   ],
-  "Band der erzwungenen Konzentration": [],
-  "Energieerfüllte Gamaschen": [],
   "Stiefel des reinen Gedankens": [
     {
       "spieler": "Patriona",
