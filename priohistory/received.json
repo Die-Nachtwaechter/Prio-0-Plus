@@ -16,5 +16,32 @@
     "timestamp": "2026-02-15T21:44:18.851998Z",
     "raid": "aq",
     "source": "manual"
+  },
+  {
+    "item": "Neltharions Träne",
+    "spieler": "Kera",
+    "klasse": "Magier",
+    "anzahl": 10,
+    "timestamp": "2026-02-19T21:29:06.345908Z",
+    "raid": "bwl",
+    "source": "manual"
+  },
+  {
+    "item": "Neltharions Träne",
+    "spieler": "Cleola",
+    "klasse": "Magier",
+    "anzahl": 4,
+    "timestamp": "2026-02-19T21:29:06.345908Z",
+    "raid": "bwl",
+    "source": "manual"
+  },
+  {
+    "item": "Edelstein des Gedankensprungs",
+    "spieler": "Halloran",
+    "klasse": "Magier",
+    "anzahl": 3,
+    "timestamp": "2026-02-19T21:29:06.345908Z",
+    "raid": "bwl",
+    "source": "manual"
   }
 ]
