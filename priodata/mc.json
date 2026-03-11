@@ -8,7 +8,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Zimzarek",
@@ -23,7 +23,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Salto",
@@ -42,17 +42,17 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -64,7 +64,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Kernhundzahn": [
@@ -86,6 +86,13 @@
       "spieler": "Skadi",
       "klasse": "Krieger",
       "anzahl": 2
+    }
+  ],
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ]
 }
