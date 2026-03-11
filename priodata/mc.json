@@ -45,11 +45,6 @@
       "anzahl": 8
     },
     {
-      "spieler": "Ippok",
-      "klasse": "Krieger",
-      "anzahl": 2
-    },
-    {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
       "anzahl": 2
@@ -87,6 +82,5 @@
       "klasse": "Krieger",
       "anzahl": 2
     }
-  ],
-  "Gurt des Ansturms": []
+  ]
 }
