@@ -19,6 +19,16 @@
       "spieler": "Schürkin",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Salto",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Band der Ausbrennung": [
@@ -33,12 +43,27 @@
       "spieler": "Bergomann",
       "klasse": "Krieger",
       "anzahl": 7
+    },
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Halsschmuck des Feuerlords": [
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ],
