@@ -8,7 +8,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Zimzarek",
@@ -37,12 +37,12 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -54,7 +54,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 4
     }
   ],
   "Kernhundzahn": [
