@@ -88,11 +88,5 @@
       "anzahl": 2
     }
   ],
-  "Gurt des Ansturms": [
-    {
-      "spieler": "Harime",
-      "klasse": "Krieger",
-      "anzahl": 1
-    }
-  ]
+  "Gurt des Ansturms": []
 }
