@@ -33,14 +33,8 @@
       "spieler": "Bergomann",
       "klasse": "Krieger",
       "anzahl": 7
-    },
-    {
-      "spieler": "Ippok",
-      "klasse": "Krieger",
-      "anzahl": 7
     }
   ],
-  "Gurt des Ansturms": [],
   "Halsschmuck des Feuerlords": [
     {
       "spieler": "Faizi",
@@ -48,7 +42,6 @@
       "anzahl": 1
     }
   ],
-  "Wilde Wachstums-Schiftung": [],
   "Kernhundzahn": [
     {
       "spieler": "Ellayana",
@@ -56,7 +49,6 @@
       "anzahl": 6
     }
   ],
-  "Schläger-Mal": [],
   "Mana entfachende Kordel": [
     {
       "spieler": "Halloran",
@@ -64,7 +56,6 @@
       "anzahl": 1
     }
   ],
-  "Talisman der ephemeren Macht": [],
   "Alte Kernlederhandschuhe": [
     {
       "spieler": "Skadi",
