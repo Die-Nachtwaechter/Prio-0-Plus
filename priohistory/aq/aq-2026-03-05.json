@@ -1,0 +1,45 @@
+{
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Klarsicht": [
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ]
+}
