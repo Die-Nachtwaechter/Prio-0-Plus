@@ -1,0 +1,45 @@
+{
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
