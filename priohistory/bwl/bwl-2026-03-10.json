@@ -1,0 +1,74 @@
+{
+  "Edelstein der Verjüngung": [
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Vintersol",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Neltharions Träne": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Giftpilz-everlook",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Ashjre'thul, Armbrust der Pein": [
+    {
+      "spieler": "Mikau",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Drachenfangzahn-Talisman": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ragnard",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Chromatisch gehärtetes Schwert": [
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
