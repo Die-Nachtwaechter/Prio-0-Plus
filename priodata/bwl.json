@@ -3,7 +3,12 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
+    },
+    {
+      "spieler": "Giftpilz-everlook",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -30,22 +35,27 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -69,12 +79,12 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 17
+      "anzahl": 18
     },
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Ollebolle",
@@ -91,6 +101,11 @@
     {
       "spieler": "Blitzlicht",
       "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ],
@@ -122,7 +137,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -149,6 +164,11 @@
       "spieler": "Schürkin",
       "klasse": "Krieger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
