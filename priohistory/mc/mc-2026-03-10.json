@@ -1,0 +1,33 @@
+{
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Salto",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
