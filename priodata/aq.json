@@ -54,7 +54,7 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -66,22 +66,22 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der Vernichtung": [
@@ -160,6 +160,11 @@
       "spieler": "Kera",
       "klasse": "Magier",
       "anzahl": 4
+    },
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
@@ -172,6 +177,11 @@
       "spieler": "Vonmir",
       "klasse": "Priester",
       "anzahl": 4
+    },
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Ring des Göttertöters": [
