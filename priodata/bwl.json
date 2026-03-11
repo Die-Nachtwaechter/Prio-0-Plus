@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 7
     },
     {
       "spieler": "Giftpilz-everlook",
@@ -35,27 +35,27 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 9
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 8
     },
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -79,17 +79,17 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 19
+      "anzahl": 21
     },
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Ollebolle",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band aus reinem Elementium": [
@@ -137,7 +137,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 9
+      "anzahl": 11
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -168,7 +168,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 4
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
