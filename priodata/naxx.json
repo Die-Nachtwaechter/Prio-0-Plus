@@ -26,6 +26,11 @@
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
       "anzahl": 5
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "",
+      "anzahl": 3
     }
   ],
   "Auge des Todes": [
