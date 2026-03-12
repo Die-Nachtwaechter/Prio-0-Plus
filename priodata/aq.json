@@ -54,7 +54,12 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -71,7 +76,7 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Petrosilius",
@@ -81,11 +86,16 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Lillianvoss",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
@@ -108,7 +118,12 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Jom Gabbar": [
@@ -136,6 +151,11 @@
       "spieler": "Ellayana",
       "klasse": "Jäger",
       "anzahl": 5
+    },
+    {
+      "spieler": "Laundry",
+      "klasse": "Jäger",
+      "anzahl": 1
     }
   ],
   "Ring des Märtyrers": [
@@ -186,7 +206,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des Göttertöters": [
@@ -213,6 +233,11 @@
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 4
+    },
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Auge von C'Thun": [
@@ -244,6 +269,11 @@
     {
       "spieler": "Ollebolle",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Giftpilz",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ],
