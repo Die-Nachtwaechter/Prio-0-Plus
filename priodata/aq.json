@@ -242,6 +242,11 @@
       "spieler": "Shredder",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "",
+      "anzahl": 2
     }
   ]
 }
