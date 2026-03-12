@@ -145,6 +145,11 @@
       "spieler": "Pearli",
       "klasse": "Magier",
       "anzahl": 8
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "",
+      "anzahl": 2
     }
   ],
   "Zauberstab der Heimsuchung": [
