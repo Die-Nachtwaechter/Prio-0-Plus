@@ -150,6 +150,11 @@
       "spieler": "Chores",
       "klasse": "Paladin",
       "anzahl": 1
+    },
+    {
+      "spieler": "Anouk",
+      "klasse": "",
+      "anzahl": 4
     }
   ]
 }
