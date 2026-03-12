@@ -42,7 +42,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Augenstrangkordel": [
@@ -54,7 +54,7 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 5
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -66,22 +66,22 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 12
+      "anzahl": 14
     },
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 9
+      "anzahl": 11
     },
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 5
     }
   ],
   "Stulpen der Vernichtung": [
@@ -103,7 +103,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Jom Gabbar": [
@@ -130,7 +130,7 @@
     {
       "spieler": "Ellayana",
       "klasse": "Jäger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Ring des Märtyrers": [
@@ -164,7 +164,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 3
     }
   ],
   "Umhang der Klarsicht": [
@@ -181,7 +181,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Göttertöters": [
@@ -229,7 +229,7 @@
     {
       "spieler": "Laundry",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Shadowsniper",
