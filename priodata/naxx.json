@@ -111,6 +111,11 @@
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 3
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Wappen des Schlächters": [
