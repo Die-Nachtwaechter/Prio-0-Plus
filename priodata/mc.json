@@ -8,7 +8,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Zimzarek",
@@ -42,7 +42,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Pepperoni",
@@ -59,7 +59,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Kernhundzahn": [
@@ -81,6 +81,13 @@
       "spieler": "Skadi",
       "klasse": "Krieger",
       "anzahl": 3
+    }
+  ],
+  "Schläger-Mal": [
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ]
 }
