@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 16
+      "anzahl": 17
     },
     {
       "spieler": "Ravyn",
@@ -13,7 +13,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Postbotin",
@@ -42,17 +42,22 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Lyrielle",
       "klasse": "Druide",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Patriona",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Patriona",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Umhang der Wundnaht": [
@@ -69,7 +74,7 @@
     {
       "spieler": "Kerwin",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Dennis",
@@ -80,6 +85,11 @@
       "spieler": "Vintersol",
       "klasse": "",
       "anzahl": 1
+    },
+    {
+      "spieler": "Dennis",
+      "klasse": "Priester",
+      "anzahl": 2
     }
   ],
   "Gressil, Vorbote des Untergangs": [
@@ -109,6 +119,11 @@
       "spieler": "Perlenpaula",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -130,6 +145,11 @@
     {
       "spieler": "Petrosilius",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
@@ -153,13 +173,18 @@
       "spieler": "Ellayana",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Uawg",
+      "klasse": "Jäger",
+      "anzahl": 1
     }
   ],
   "Umhang der Nekropole": [
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Arie",
@@ -170,6 +195,11 @@
       "spieler": "Petrosilius",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -215,6 +245,11 @@
       "spieler": "Anouk",
       "klasse": "",
       "anzahl": 4
+    },
+    {
+      "spieler": "Anouk",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
@@ -222,6 +257,11 @@
       "spieler": "Zimzarek",
       "klasse": "",
       "anzahl": 4
+    },
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Verdammnisbote": [
@@ -229,6 +269,11 @@
       "spieler": "Avid",
       "klasse": "",
       "anzahl": 5
+    },
+    {
+      "spieler": "Avid",
+      "klasse": "Jäger",
+      "anzahl": 1
     }
   ],
   "Nerubischer Sklavenjäger": [
