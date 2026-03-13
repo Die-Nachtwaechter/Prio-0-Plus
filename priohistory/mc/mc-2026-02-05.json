@@ -1,0 +1,37 @@
+{
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Alte Kernlederhandschuhe": [
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Blitzlicht",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
