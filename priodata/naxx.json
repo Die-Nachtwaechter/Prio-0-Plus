@@ -46,13 +46,8 @@
     },
     {
       "spieler": "Patriona",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Patriona",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 4
     }
   ],
   "Umhang der Wundnaht": [
@@ -139,13 +134,8 @@
     },
     {
       "spieler": "Petrosilius",
-      "klasse": "",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Wappen des Schlächters": [
@@ -160,11 +150,6 @@
       "anzahl": 1
     },
     {
-      "spieler": "Uawg",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
       "spieler": "Ellayana",
       "klasse": "",
       "anzahl": 3
@@ -172,7 +157,7 @@
     {
       "spieler": "Uawg",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 4
     }
   ],
   "Umhang der Nekropole": [
@@ -182,11 +167,6 @@
       "anzahl": 9
     },
     {
-      "spieler": "Arie",
-      "klasse": "",
-      "anzahl": 2
-    },
-    {
       "spieler": "Petrosilius",
       "klasse": "",
       "anzahl": 3
@@ -194,7 +174,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 3
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -227,48 +207,28 @@
   ],
   "Verderbter Aschenbringer": [
     {
-      "spieler": "Uawg",
-      "klasse": "Jäger",
-      "anzahl": 4
-    },
-    {
       "spieler": "Chores",
       "klasse": "Paladin",
       "anzahl": 2
     },
     {
       "spieler": "Anouk",
-      "klasse": "",
-      "anzahl": 4
-    },
-    {
-      "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 5
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
     {
       "spieler": "Zimzarek",
-      "klasse": "",
-      "anzahl": 4
-    },
-    {
-      "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 5
     }
   ],
   "Verdammnisbote": [
     {
       "spieler": "Avid",
-      "klasse": "",
-      "anzahl": 5
-    },
-    {
-      "spieler": "Avid",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 6
     }
   ],
   "Nerubischer Sklavenjäger": [
