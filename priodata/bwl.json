@@ -3,11 +3,16 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Giftpilz-everlook",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
@@ -40,17 +45,17 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Skadi",
@@ -79,12 +84,12 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 21
+      "anzahl": 22
     },
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Ollebolle",
@@ -101,7 +106,7 @@
     {
       "spieler": "Blitzlicht",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Solax",
@@ -137,7 +142,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 11
+      "anzahl": 12
     }
   ],
   "Armschienen der arkanen Präzision": [
