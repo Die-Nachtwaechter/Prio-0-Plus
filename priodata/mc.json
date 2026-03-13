@@ -8,7 +8,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Zimzarek",
@@ -31,13 +31,18 @@
       "spieler": "Ollebolle",
       "klasse": "Paladin",
       "anzahl": 3
+    },
+    {
+      "spieler": "Blitzlicht",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Ring des rasanten Schlags": [
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Pepperoni",
@@ -54,7 +59,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Kernhundzahn": [
@@ -75,7 +80,7 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ]
 }
