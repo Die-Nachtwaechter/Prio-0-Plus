@@ -1,0 +1,75 @@
+{
+  "Gespensterklinge": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Verdammnisbote": [
+    {
+      "spieler": "Avid",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Iblis, Klinge des gefallenen Engels": [
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein der gefangenen Unschuld": [
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Nekropole": [
+    {
+      "spieler": "Pearli",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Verderbter Aschenbringer": [
+    {
+      "spieler": "Anouk",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ]
+}
