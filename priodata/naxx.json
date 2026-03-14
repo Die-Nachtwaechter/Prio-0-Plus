@@ -79,11 +79,6 @@
       "anzahl": 4
     },
     {
-      "spieler": "Elbrus",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
       "spieler": "Saturo",
       "klasse": "",
       "anzahl": 1
@@ -96,7 +91,7 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 4
     },
     {
       "spieler": "Relentless",
