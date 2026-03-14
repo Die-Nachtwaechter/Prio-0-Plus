@@ -3,7 +3,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 17
+      "anzahl": 18
     },
     {
       "spieler": "Ravyn",
@@ -31,6 +31,11 @@
       "spieler": "Arie",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Auge des Todes": [
@@ -102,6 +107,16 @@
       "spieler": "Relentless",
       "klasse": "",
       "anzahl": 2
+    },
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Kuss der Spinne": [
@@ -164,7 +179,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Petrosilius",
@@ -175,6 +190,11 @@
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 3
+    },
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -214,21 +234,21 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Verdammnisbote": [
     {
       "spieler": "Avid",
       "klasse": "Jäger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Nerubischer Sklavenjäger": [
@@ -236,12 +256,24 @@
       "spieler": "Zotgrim",
       "klasse": "",
       "anzahl": 4
+    },
+    {
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
+      "anzahl": 1
     }
   ],
   "Königsmörder": [
     {
       "spieler": "Pharmia",
       "klasse": "",
+      "anzahl": 1
+    }
+  ],
+  "Gespensterklinge": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ]
