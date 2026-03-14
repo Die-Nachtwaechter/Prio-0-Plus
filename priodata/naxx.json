@@ -1,11 +1,6 @@
 {
   "Die zehrende Kälte": [
     {
-      "spieler": "Bergomann",
-      "klasse": "Krieger",
-      "anzahl": 18
-    },
-    {
       "spieler": "Ravyn",
       "klasse": "Schurke",
       "anzahl": 2
@@ -29,13 +24,8 @@
     },
     {
       "spieler": "Arie",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 4
     }
   ],
   "Auge des Todes": [
@@ -72,11 +62,6 @@
       "anzahl": 9
     },
     {
-      "spieler": "Dennis",
-      "klasse": "",
-      "anzahl": 2
-    },
-    {
       "spieler": "Vintersol",
       "klasse": "",
       "anzahl": 1
@@ -84,7 +69,7 @@
     {
       "spieler": "Dennis",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 4
     }
   ],
   "Gressil, Vorbote des Untergangs": [
@@ -182,11 +167,6 @@
       "anzahl": 10
     },
     {
-      "spieler": "Petrosilius",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 3
@@ -194,7 +174,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 4
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -254,13 +234,8 @@
   "Nerubischer Sklavenjäger": [
     {
       "spieler": "Zotgrim",
-      "klasse": "",
-      "anzahl": 4
-    },
-    {
-      "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 5
     }
   ],
   "Königsmörder": [
