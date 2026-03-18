@@ -1,0 +1,35 @@
+{
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Salto",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
