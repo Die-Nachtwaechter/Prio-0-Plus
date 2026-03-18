@@ -8,6 +8,11 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
@@ -15,7 +20,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band von Accuria": [
@@ -27,6 +32,13 @@
     {
       "spieler": "Salto",
       "klasse": "Schurke",
+      "anzahl": 2
+    }
+  ],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ]
