@@ -3,12 +3,17 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Cleola",
       "klasse": "Magier",
       "anzahl": 2
+    },
+    {
+      "spieler": "Javi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
@@ -22,11 +27,21 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
@@ -40,6 +55,11 @@
       "spieler": "Auxeroise",
       "klasse": "Druide",
       "anzahl": 1
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Band aus reinem Elementium": [
@@ -51,6 +71,34 @@
     {
       "spieler": "Testsuri",
       "klasse": "",
+      "anzahl": 1
+    }
+  ],
+  "Prestors Talisman der Verschwörung": [
+    {
+      "spieler": "Fowen",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Chromatische Stiefel": [
+    {
+      "spieler": "Evocíance",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Stiefel des reinen Gedankens": [
+    {
+      "spieler": "Vintersol",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Chromatisch gehärtetes Schwert": [
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ]
