@@ -225,7 +225,7 @@
   ],
   "Königsmörder": [
     {
-      "spieler": "Pharmia",
+      "spieler": "Yumpi",
       "klasse": "",
       "anzahl": 1
     }
@@ -234,6 +234,13 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Stormrage's Talisman des Zorns": [
+    {
+      "spieler": "Ragnard",
+      "klasse": "",
       "anzahl": 1
     }
   ]
