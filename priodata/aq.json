@@ -14,6 +14,11 @@
       "spieler": "Jôncenà",
       "klasse": "Schurke",
       "anzahl": 2
+    },
+    {
+      "spieler": "Kartell",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Stich des Todes": [
@@ -54,12 +59,12 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -86,7 +91,7 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Lillianvoss",
@@ -113,12 +118,12 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Jom Gabbar": [
@@ -201,7 +206,7 @@
     {
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des Göttertöters": [
@@ -232,7 +237,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Auge von C'Thun": [
@@ -270,6 +275,21 @@
       "spieler": "Giftpilz",
       "klasse": "Hexenmeister",
       "anzahl": 1
+    },
+    {
+      "spieler": "Javi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Evocíance",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
@@ -288,6 +308,18 @@
     {
       "spieler": "Ollebolle",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Imperiale Qirajiinsignie": [
+    {
+      "spieler": "Giftpilz",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ]
