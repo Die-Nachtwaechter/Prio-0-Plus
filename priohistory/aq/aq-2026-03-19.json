@@ -1,0 +1,85 @@
+{
+  "Armreifen der königlichen Erlösung": [
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Umhang des Verschlungenen": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Imperiale Qirajiinsignie": [
+    {
+      "spieler": "Giftpilz",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Auge von C'Thun": [
+    {
+      "spieler": "Javi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Evocíance",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Klarsicht": [
+    {
+      "spieler": "Bartuzakar",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Gürtel der endlosen Pein": [
+    {
+      "spieler": "Kartell",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
