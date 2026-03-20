@@ -84,11 +84,6 @@
       "anzahl": 1
     },
     {
-      "spieler": "Relentless",
-      "klasse": "",
-      "anzahl": 2
-    },
-    {
       "spieler": "Elbrus",
       "klasse": "Krieger",
       "anzahl": 4
@@ -104,11 +99,6 @@
       "spieler": "Perlenpaula",
       "klasse": "",
       "anzahl": 3
-    },
-    {
-      "spieler": "Relentless",
-      "klasse": "Schurke",
-      "anzahl": 1
     }
   ],
   "Die gebundene Essenz Saphirons": [
