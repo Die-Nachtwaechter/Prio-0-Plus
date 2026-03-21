@@ -8,7 +8,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Postbotin",
@@ -25,7 +25,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Auge des Todes": [
@@ -86,12 +86,12 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Kuss der Spinne": [
@@ -99,6 +99,11 @@
       "spieler": "Perlenpaula",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -149,7 +154,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Arie",
@@ -159,7 +164,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -199,14 +204,14 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Verdammnisbote": [
@@ -220,7 +225,7 @@
     {
       "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Königsmörder": [
