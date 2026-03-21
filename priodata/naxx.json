@@ -6,11 +6,6 @@
       "anzahl": 2
     },
     {
-      "spieler": "Âmbition",
-      "klasse": "Krieger",
-      "anzahl": 14
-    },
-    {
       "spieler": "Postbotin",
       "klasse": "Krieger",
       "anzahl": 6
@@ -246,7 +241,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
