@@ -43,18 +43,7 @@
       "anzahl": 2
     }
   ],
-  "Ring des rasanten Schlags": [
-    {
-      "spieler": "Bergomann",
-      "klasse": "Krieger",
-      "anzahl": 12
-    },
-    {
-      "spieler": "Pepperoni",
-      "klasse": "Krieger",
-      "anzahl": 5
-    }
-  ],
+  "Ring des rasanten Schlags": [],
   "Halsschmuck des Feuerlords": [
     {
       "spieler": "Faizi",
