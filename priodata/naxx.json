@@ -9,11 +9,6 @@
       "spieler": "Postbotin",
       "klasse": "Krieger",
       "anzahl": 6
-    },
-    {
-      "spieler": "Saturo",
-      "klasse": "Krieger",
-      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -256,7 +251,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "",
-      "anzahl": 2
+      "anzahl": 3
     }
   ]
 }
