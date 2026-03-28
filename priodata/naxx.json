@@ -96,11 +96,6 @@
   ],
   "Kuss der Spinne": [
     {
-      "spieler": "Perlenpaula",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
       "spieler": "Bergomann",
       "klasse": "Krieger",
       "anzahl": 2
@@ -108,7 +103,7 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 4
     }
   ],
   "Die gebundene Essenz Saphirons": [
