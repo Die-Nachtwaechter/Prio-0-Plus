@@ -9,6 +9,11 @@
       "spieler": "Postbotin",
       "klasse": "Krieger",
       "anzahl": 6
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -20,7 +25,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Auge des Todes": [
@@ -38,6 +43,11 @@
       "spieler": "Patriona",
       "klasse": "Priester",
       "anzahl": 4
+    },
+    {
+      "spieler": "Dennis",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Umhang der Wundnaht": [
@@ -81,12 +91,12 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Kuss der Spinne": [
@@ -97,6 +107,11 @@
     },
     {
       "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Perlenpaula",
       "klasse": "Krieger",
       "anzahl": 1
     }
@@ -149,7 +164,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Arie",
@@ -159,7 +174,7 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -199,14 +214,14 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Verdammnisbote": [
@@ -220,7 +235,7 @@
     {
       "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Königsmörder": [
