@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stich des Todes": [
@@ -59,12 +59,12 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -81,7 +81,7 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Petrosilius",
@@ -91,12 +91,17 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Javi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stulpen der Vernichtung": [
@@ -123,7 +128,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Jom Gabbar": [
@@ -190,6 +195,11 @@
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
       "anzahl": 3
+    },
+    {
+      "spieler": "Giftpilz",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
@@ -237,7 +247,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Auge von C'Thun": [
@@ -284,12 +294,12 @@
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Abzeichen der Schwarmwache": [
