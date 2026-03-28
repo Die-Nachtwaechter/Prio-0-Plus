@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Giftpilz-everlook",
@@ -13,7 +13,7 @@
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -40,12 +40,12 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Postbotin",
@@ -55,12 +55,12 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -72,7 +72,7 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der Verjüngung": [
@@ -89,7 +89,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Ollebolle",
@@ -99,7 +99,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band aus reinem Elementium": [
@@ -138,6 +138,11 @@
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
@@ -160,6 +165,11 @@
       "spieler": "Joi",
       "klasse": "Hexenmeister",
       "anzahl": 4
+    },
+    {
+      "spieler": "Giftpilz",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stiefel des reinen Gedankens": [
@@ -171,7 +181,7 @@
     {
       "spieler": "Vintersol",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Chromatisch gehärtetes Schwert": [
@@ -188,7 +198,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
