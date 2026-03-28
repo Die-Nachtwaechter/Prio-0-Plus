@@ -40,7 +40,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des rasanten Schlags": [
@@ -52,7 +52,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -64,7 +64,12 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
+    },
+    {
+      "spieler": "Giftpilz",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Kernhundzahn": [
