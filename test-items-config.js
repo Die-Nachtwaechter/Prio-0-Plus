@@ -114,4 +114,5 @@ export const NAXX_items = [
     {name: "Schild der Geißelung", prios: ["Paladin"]},
     {name: "Knochenspalterbeil", prios: ["Jäger"]},
     {name: "Das Gesicht des Todes", prios: ["Krieger"]},
+    {name: "Stormrages Talisman des Zorns", prios: ["Krieger"]},
 ];
