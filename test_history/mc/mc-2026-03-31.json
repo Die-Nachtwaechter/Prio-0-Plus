@@ -1,0 +1,28 @@
+{
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Emegencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
