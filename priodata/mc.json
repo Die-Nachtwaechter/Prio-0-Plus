@@ -6,11 +6,6 @@
       "anzahl": 3
     },
     {
-      "spieler": "Jôncenà",
-      "klasse": "Schurke",
-      "anzahl": 11
-    },
-    {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
       "anzahl": 2
@@ -48,7 +43,6 @@
       "anzahl": 3
     }
   ],
-  "Ring des rasanten Schlags": [],
   "Halsschmuck des Feuerlords": [
     {
       "spieler": "Faizi",
