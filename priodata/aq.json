@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stich des Todes": [
@@ -59,12 +59,12 @@
     {
       "spieler": "Cleola",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -91,17 +91,17 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der Vernichtung": [
@@ -123,7 +123,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Pepperoni",
@@ -217,6 +217,11 @@
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
       "anzahl": 4
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Ring des Göttertöters": [
@@ -236,6 +241,11 @@
       "spieler": "Ollebolle",
       "klasse": "Paladin",
       "anzahl": 1
+    },
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Umhang des Verschlungenen": [
@@ -247,7 +257,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Auge von C'Thun": [
@@ -294,7 +304,7 @@
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Solax",
