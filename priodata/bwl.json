@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Giftpilz-everlook",
@@ -13,7 +13,7 @@
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -40,7 +40,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Postbotin",
@@ -50,12 +50,12 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -68,6 +68,11 @@
       "spieler": "Fowen",
       "klasse": "Jäger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Edelstein der Verjüngung": [
@@ -84,7 +89,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Ollebolle",
@@ -94,7 +99,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band aus reinem Elementium": [
@@ -133,7 +138,7 @@
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Bergomann",
@@ -165,6 +170,11 @@
       "spieler": "Giftpilz",
       "klasse": "Hexenmeister",
       "anzahl": 1
+    },
+    {
+      "spieler": "Giftpilz-everlook",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stiefel des reinen Gedankens": [
@@ -193,7 +203,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -214,6 +224,11 @@
     },
     {
       "spieler": "Akhira",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jôncenà",
       "klasse": "Schurke",
       "anzahl": 1
     }
