@@ -8,7 +8,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Zimzarek",
@@ -24,6 +24,11 @@
       "spieler": "Salto",
       "klasse": "Schurke",
       "anzahl": 2
+    },
+    {
+      "spieler": "Emegencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Band der Ausbrennung": [
@@ -40,7 +45,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des rasanten Schlags": [],
@@ -53,7 +58,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Giftpilz",
