@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Cleola",
@@ -13,7 +13,7 @@
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ashjre'thul, Armbrust der Pein": [
@@ -27,7 +27,7 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Jôncenà",
@@ -42,6 +42,11 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
@@ -54,12 +59,12 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band aus reinem Elementium": [
@@ -79,13 +84,18 @@
       "spieler": "Fowen",
       "klasse": "Jäger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Chromatische Stiefel": [
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stiefel des reinen Gedankens": [
@@ -98,6 +108,20 @@
   "Chromatisch gehärtetes Schwert": [
     {
       "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 2
+    }
+  ],
+  "Armschienen der arkanen Präzision": [
+    {
+      "spieler": "Giftpilz-everlook",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drac": [
+    {
+      "spieler": "Jôncenà",
       "klasse": "Schurke",
       "anzahl": 1
     }
