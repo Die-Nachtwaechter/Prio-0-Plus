@@ -1,0 +1,73 @@
+{
+  "Umhang des Verschlungenen": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Javi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Lillianvoss",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Auge von C'Thun": [
+    {
+      "spieler": "Evocíance",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Cleola",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Klarsicht": [
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Szepter des falschen Propheten": [
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Gürtel der endlosen Pein": [
+    {
+      "spieler": "Kartell",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
