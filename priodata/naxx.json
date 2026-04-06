@@ -91,7 +91,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Kuss der Spinne": [
@@ -103,7 +103,7 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -132,7 +132,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Perlenpaula",
@@ -154,7 +154,7 @@
     {
       "spieler": "Pearli",
       "klasse": "Magier",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Arie",
@@ -179,6 +179,11 @@
       "spieler": "Elbrus",
       "klasse": "Krieger",
       "anzahl": 9
+    },
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Band der unerhörten Gebete": [
@@ -204,7 +209,7 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
@@ -225,7 +230,7 @@
     {
       "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Königsmörder": [
