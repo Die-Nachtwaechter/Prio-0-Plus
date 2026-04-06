@@ -152,11 +152,6 @@
   ],
   "Umhang der Nekropole": [
     {
-      "spieler": "Pearli",
-      "klasse": "Magier",
-      "anzahl": 13
-    },
-    {
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 3
@@ -247,7 +242,6 @@
       "anzahl": 1
     }
   ],
-  "Stormrage's Talisman des Zorns": [],
   "Stormrages Talisman des Zorns": [
     {
       "spieler": "Ragnard",
