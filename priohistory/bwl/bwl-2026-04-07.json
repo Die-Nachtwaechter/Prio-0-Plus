@@ -1,0 +1,78 @@
+{
+  "Edelstein der Verjüngung": [
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Neltharions Träne": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Prestors Talisman der Verschwörung": [
+    {
+      "spieler": "Fowen",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Drachenfangzahn-Talisman": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Chromatische Stiefel": [
+    {
+      "spieler": "Evocíance",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Chromatisch gehärtetes Schwert": [
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drac": [
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
