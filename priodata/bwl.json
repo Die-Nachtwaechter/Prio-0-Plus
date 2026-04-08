@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Giftpilz-everlook",
@@ -40,7 +40,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Postbotin",
@@ -50,7 +50,12 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
+    },
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -62,12 +67,12 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der Verjüngung": [
@@ -84,7 +89,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Ollebolle",
@@ -94,7 +99,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Band aus reinem Elementium": [
@@ -112,6 +117,11 @@
       "spieler": "Solax",
       "klasse": "Priester",
       "anzahl": 2
+    },
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Chromatische Stiefel": [
@@ -133,7 +143,7 @@
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Bergomann",
@@ -198,7 +208,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -225,7 +235,7 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Energieerfüllte Gamaschen": [
