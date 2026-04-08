@@ -121,11 +121,6 @@
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 3
-    },
-    {
-      "spieler": "Petrosilius",
-      "klasse": "Magier",
-      "anzahl": 2
     }
   ],
   "Wappen des Schlächters": [
@@ -188,7 +183,6 @@
       "anzahl": 1
     }
   ],
-  "Gamaschen des Widerspruchs": [],
   "Verderbter Aschenbringer": [
     {
       "spieler": "Chores",
