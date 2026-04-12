@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Stich des Todes": [
@@ -59,7 +59,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -86,12 +86,12 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Javi",
@@ -118,7 +118,12 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
+    },
+    {
+      "spieler": "Evocíance",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Jom Gabbar": [
@@ -190,6 +195,11 @@
       "spieler": "Giftpilz",
       "klasse": "Hexenmeister",
       "anzahl": 1
+    },
+    {
+      "spieler": "Ramoni",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
@@ -211,7 +221,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des Göttertöters": [
@@ -248,6 +258,11 @@
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
       "anzahl": 4
+    },
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Auge von C'Thun": [
