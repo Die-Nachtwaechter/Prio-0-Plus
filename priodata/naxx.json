@@ -142,11 +142,6 @@
       "anzahl": 3
     },
     {
-      "spieler": "Petrosilius",
-      "klasse": "Magier",
-      "anzahl": 7
-    },
-    {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
       "anzahl": 1
@@ -238,13 +233,8 @@
   "Stormrages Talisman des Zorns": [
     {
       "spieler": "Ragnard",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 4
     }
   ]
 }
