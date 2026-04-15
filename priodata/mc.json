@@ -18,7 +18,7 @@
     {
       "spieler": "Emegencydoc",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band der Ausbrennung": [
@@ -35,7 +35,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -47,7 +47,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Giftpilz",
@@ -87,6 +87,11 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
