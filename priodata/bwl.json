@@ -3,7 +3,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Giftpilz-everlook",
@@ -14,6 +14,11 @@
       "spieler": "Javi",
       "klasse": "Hexenmeister",
       "anzahl": 3
+    },
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -40,22 +45,22 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -67,12 +72,12 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Edelstein der Verjüngung": [
@@ -89,7 +94,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Ollebolle",
@@ -99,7 +104,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Band aus reinem Elementium": [
@@ -120,6 +125,11 @@
     },
     {
       "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Yunnchen",
       "klasse": "Priester",
       "anzahl": 1
     }
@@ -143,7 +153,7 @@
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Bergomann",
@@ -208,7 +218,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -235,13 +245,23 @@
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Energieerfüllte Gamaschen": [
     {
       "spieler": "Auxeroise",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ]
