@@ -1,11 +1,6 @@
 {
   "Neltharions Träne": [
     {
-      "spieler": "Faizi",
-      "klasse": "Hexenmeister",
-      "anzahl": 13
-    },
-    {
       "spieler": "Giftpilz-everlook",
       "klasse": "Hexenmeister",
       "anzahl": 1
@@ -41,11 +36,6 @@
       "spieler": "Visenna",
       "klasse": "Druide",
       "anzahl": 4
-    },
-    {
-      "spieler": "Ippok",
-      "klasse": "Krieger",
-      "anzahl": 12
     },
     {
       "spieler": "Postbotin",
@@ -241,11 +231,6 @@
       "spieler": "Akhira",
       "klasse": "Schurke",
       "anzahl": 1
-    },
-    {
-      "spieler": "Jôncenà",
-      "klasse": "Schurke",
-      "anzahl": 3
     },
     {
       "spieler": "Thrillseeker",
