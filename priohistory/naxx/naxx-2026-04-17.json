@@ -1,0 +1,84 @@
+{
+  "Saphirons linkes Auge": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Nekropole": [
+    {
+      "spieler": "Joi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Wappen des Schlächters": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Stormrages Talisman des Zorns": [
+    {
+      "spieler": "Ragnard",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Bindungen des Seelenjägers": [
+    {
+      "spieler": "Petrosilius",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Verderbter Aschenbringer": [
+    {
+      "spieler": "Anouk",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Auge des Todes": [
+    {
+      "spieler": "Dennis",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ]
+}
