@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Stich des Todes": [
@@ -59,7 +59,12 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
+    },
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -86,17 +91,17 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der Vernichtung": [
@@ -118,12 +123,12 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Evocíance",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Jom Gabbar": [
@@ -199,7 +204,7 @@
     {
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Klarsicht": [
@@ -221,7 +226,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des Göttertöters": [
@@ -245,7 +250,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang des Verschlungenen": [
@@ -257,12 +262,12 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Auge von C'Thun": [
@@ -315,6 +320,16 @@
       "spieler": "Solax",
       "klasse": "Priester",
       "anzahl": 2
+    },
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
