@@ -11,3 +11,4 @@ naxx-2026-04-03.json
 naxx-2026-04-10.csv
 naxx-2026-04-10.json
 naxx-2026-04-17.csv
+naxx-2026-04-17.json
