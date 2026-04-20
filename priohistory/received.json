@@ -43,5 +43,14 @@
     "timestamp": "2026-02-19T21:29:06.345908Z",
     "raid": "bwl",
     "source": "manual"
+  },
+  {
+    "item": "Band von Accuria",
+    "spieler": "Emegencydoc",
+    "klasse": "Schurke",
+    "anzahl": 3,
+    "timestamp": "2026-04-20T19:07:42.118730Z",
+    "raid": "mc",
+    "source": "manual"
   }
 ]
