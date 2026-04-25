@@ -8,7 +8,7 @@
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Perlenpaula",
@@ -91,10 +91,16 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
-  "Kuss der Spinne": [],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
   "Die gebundene Essenz Saphirons": [
     {
       "spieler": "Buca",
@@ -131,7 +137,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Nekropole": [
@@ -143,12 +149,12 @@
     {
       "spieler": "Joi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -167,7 +173,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band der unerhörten Gebete": [
@@ -187,6 +193,11 @@
       "spieler": "Anouk",
       "klasse": "Paladin",
       "anzahl": 11
+    },
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Iblis, Klinge des gefallenen Engels": [
@@ -212,7 +223,7 @@
     {
       "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 10
+      "anzahl": 11
     }
   ],
   "Königsmörder": [
@@ -233,14 +244,14 @@
     {
       "spieler": "Ragnard",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Saphirons linkes Auge": [
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Bindungen des Seelenjägers": [
