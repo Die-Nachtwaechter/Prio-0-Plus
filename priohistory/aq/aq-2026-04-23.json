@@ -1,0 +1,75 @@
+{
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Ramoni",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der Vernichtung": [
+    {
+      "spieler": "Pepperoni",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Lillianvoss",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Umhang des Verschlungenen": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Klarsicht": [
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Szepter des falschen Propheten": [
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Auge von C'Thun": [
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Gürtel der endlosen Pein": [
+    {
+      "spieler": "Kartell",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
