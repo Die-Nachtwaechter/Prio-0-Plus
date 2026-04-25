@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Stich des Todes": [
@@ -59,12 +59,12 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -91,12 +91,12 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Javi",
@@ -123,7 +123,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Evocíance",
@@ -204,7 +204,7 @@
     {
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang der Klarsicht": [
@@ -226,7 +226,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Ring des Göttertöters": [
@@ -250,7 +250,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang des Verschlungenen": [
@@ -267,7 +267,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Auge von C'Thun": [
@@ -329,7 +329,7 @@
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Abzeichen der Schwarmwache": [
