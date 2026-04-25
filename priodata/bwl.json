@@ -8,11 +8,16 @@
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
@@ -40,12 +45,12 @@
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Bergomann",
@@ -67,7 +72,7 @@
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Edelstein der Verjüngung": [
@@ -84,7 +89,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Ollebolle",
@@ -94,7 +99,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Band aus reinem Elementium": [
@@ -116,12 +121,12 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Chromatische Stiefel": [
@@ -148,7 +153,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -162,7 +167,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 12
+      "anzahl": 13
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -208,7 +213,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -235,7 +240,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Energieerfüllte Gamaschen": [
