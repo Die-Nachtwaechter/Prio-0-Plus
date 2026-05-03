@@ -59,12 +59,12 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -91,17 +91,17 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Stulpen der Vernichtung": [
@@ -123,7 +123,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Evocíance",
@@ -160,6 +160,11 @@
     {
       "spieler": "Laundry",
       "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
       "anzahl": 1
     }
   ],
@@ -205,6 +210,11 @@
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
       "anzahl": 3
+    },
+    {
+      "spieler": "Buffin",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
@@ -226,7 +236,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Ring des Göttertöters": [
@@ -250,7 +260,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Umhang des Verschlungenen": [
@@ -267,7 +277,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Auge von C'Thun": [
@@ -330,6 +340,16 @@
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
       "anzahl": 2
+    },
+    {
+      "spieler": "Ramoni",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Julius",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
