@@ -210,11 +210,6 @@
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
       "anzahl": 3
-    },
-    {
-      "spieler": "Buffin",
-      "klasse": "Hexenmeister",
-      "anzahl": 1
     }
   ],
   "Umhang der Klarsicht": [
@@ -307,11 +302,6 @@
       "anzahl": 1
     },
     {
-      "spieler": "Ollebolle",
-      "klasse": "",
-      "anzahl": 1
-    },
-    {
       "spieler": "Giftpilz",
       "klasse": "Hexenmeister",
       "anzahl": 1
@@ -340,11 +330,6 @@
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
       "anzahl": 2
-    },
-    {
-      "spieler": "Ramoni",
-      "klasse": "Hexenmeister",
-      "anzahl": 1
     },
     {
       "spieler": "Julius",
