@@ -152,11 +152,6 @@
       "anzahl": 3
     },
     {
-      "spieler": "Joi",
-      "klasse": "Hexenmeister",
-      "anzahl": 4
-    },
-    {
       "spieler": "Kera",
       "klasse": "Magier",
       "anzahl": 4
@@ -224,7 +219,6 @@
       "anzahl": 7
     }
   ],
-  "Nerubischer Sklavenjäger": [],
   "Königsmörder": [
     {
       "spieler": "Yumpi",
