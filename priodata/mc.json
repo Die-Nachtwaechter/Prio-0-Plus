@@ -35,7 +35,12 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -47,7 +52,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Giftpilz",
@@ -85,7 +90,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Ring des rasanten Schlags": [
@@ -97,7 +102,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ]
 }
