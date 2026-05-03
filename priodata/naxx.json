@@ -224,13 +224,7 @@
       "anzahl": 7
     }
   ],
-  "Nerubischer Sklavenjäger": [
-    {
-      "spieler": "Zotgrim",
-      "klasse": "Jäger",
-      "anzahl": 12
-    }
-  ],
+  "Nerubischer Sklavenjäger": [],
   "Königsmörder": [
     {
       "spieler": "Yumpi",
@@ -245,7 +239,6 @@
       "anzahl": 1
     }
   ],
-  "Stormrages Talisman des Zorns": [],
   "Saphirons linkes Auge": [
     {
       "spieler": "Faizi",
