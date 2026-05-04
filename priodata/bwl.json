@@ -8,16 +8,21 @@
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Ramoni",
+      "klasse": "",
       "anzahl": 1
     }
   ],
@@ -45,7 +50,7 @@
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Skadi",
@@ -56,6 +61,11 @@
       "spieler": "Bergomann",
       "klasse": "Krieger",
       "anzahl": 2
+    },
+    {
+      "spieler": "Salto",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -67,12 +77,12 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Edelstein der Verjüngung": [
@@ -89,7 +99,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Ollebolle",
@@ -99,7 +109,12 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Band aus reinem Elementium": [
@@ -126,7 +141,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Chromatische Stiefel": [
@@ -153,7 +168,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -167,7 +182,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 13
+      "anzahl": 14
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -214,6 +229,11 @@
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
       "anzahl": 10
+    },
+    {
+      "spieler": "Ambition",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -240,7 +260,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Energieerfüllte Gamaschen": [
@@ -252,6 +272,13 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
+      "anzahl": 2
+    }
+  ],
+  "Lok'Amir il Romathis": [
+    {
+      "spieler": "Medinait",
+      "klasse": "",
       "anzahl": 1
     }
   ]
