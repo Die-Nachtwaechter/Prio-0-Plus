@@ -96,13 +96,8 @@
   "Ring des rasanten Schlags": [
     {
       "spieler": "Thorgrimmson",
-      "klasse": "",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Talisman der ephemeren Macht": [
