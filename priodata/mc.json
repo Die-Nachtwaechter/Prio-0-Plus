@@ -19,6 +19,11 @@
       "spieler": "Emergencydoc",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Band der Ausbrennung": [
@@ -35,12 +40,12 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -52,6 +57,11 @@
     {
       "spieler": "Giftpilz",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Kadyía",
+      "klasse": "Priester",
       "anzahl": 1
     }
   ],
@@ -85,7 +95,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des rasanten Schlags": [
@@ -97,7 +107,14 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
+    }
+  ],
+  "Talisman der ephemeren Macht": [
+    {
+      "spieler": "Imodium",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ]
 }
