@@ -61,6 +61,16 @@
       "spieler": "Salto",
       "klasse": "",
       "anzahl": 2
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -227,6 +237,11 @@
     },
     {
       "spieler": "Ambition",
+      "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Deadplated",
       "klasse": "",
       "anzahl": 1
     }
