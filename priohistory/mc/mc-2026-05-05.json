@@ -1,0 +1,49 @@
+{
+  "Talisman der ephemeren Macht": [
+    {
+      "spieler": "Imodium",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Kadyía",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Schläger-Mal": [
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
