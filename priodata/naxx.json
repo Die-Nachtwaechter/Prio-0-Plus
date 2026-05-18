@@ -13,7 +13,7 @@
     {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -86,12 +86,12 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Reyna",
@@ -103,7 +103,7 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -142,7 +142,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Umhang der Nekropole": [
@@ -154,7 +154,7 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -174,6 +174,11 @@
       "spieler": "Zimzarek",
       "klasse": "Krieger",
       "anzahl": 4
+    },
+    {
+      "spieler": "Reyna",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Band der unerhörten Gebete": [
@@ -192,7 +197,7 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Bergomann",
@@ -228,7 +233,7 @@
     {
       "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Gespensterklinge": [
@@ -242,7 +247,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Bindungen des Seelenjägers": [
