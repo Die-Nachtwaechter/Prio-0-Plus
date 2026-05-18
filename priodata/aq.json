@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Stich des Todes": [
@@ -52,6 +52,11 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -64,17 +69,17 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -106,12 +111,17 @@
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
       "anzahl": 5
+    },
+    {
+      "spieler": "Deltana",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stulpen der Vernichtung": [
@@ -133,7 +143,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Evocíance",
@@ -188,6 +198,11 @@
       "spieler": "Bartuzakar",
       "klasse": "Paladin",
       "anzahl": 4
+    },
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
     }
   ],
   "Amulett von Vek'nilash": [
@@ -224,7 +239,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Klarsicht": [
@@ -246,7 +261,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Ring des Göttertöters": [
@@ -270,7 +285,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Umhang des Verschlungenen": [
@@ -287,7 +302,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Auge von C'Thun": [
@@ -349,7 +364,7 @@
     {
       "spieler": "Julius",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Babuna",
