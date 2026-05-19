@@ -8,22 +8,22 @@
     {
       "spieler": "Javi",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Ramoni",
       "klasse": "",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -60,17 +60,17 @@
     {
       "spieler": "Salto",
       "klasse": "",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Thorgrimmson",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Bloodwolf",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -82,12 +82,12 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Edelstein der Verjüngung": [
@@ -104,7 +104,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Ollebolle",
@@ -114,12 +114,12 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Babuna",
       "klasse": "",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band aus reinem Elementium": [
@@ -146,7 +146,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Chromatische Stiefel": [
@@ -173,7 +173,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -187,7 +187,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 14
+      "anzahl": 15
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -243,7 +243,7 @@
     {
       "spieler": "Deadplated",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -270,7 +270,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Energieerfüllte Gamaschen": [
@@ -282,14 +282,14 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Lok'Amir il Romathis": [
     {
       "spieler": "Medinait",
       "klasse": "",
-      "anzahl": 3
+      "anzahl": 4
     }
   ]
 }
