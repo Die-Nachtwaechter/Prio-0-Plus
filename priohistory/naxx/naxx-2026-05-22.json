@@ -1,0 +1,44 @@
+{
+  "Saphirons linkes Auge": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Wappen des Schlächters": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der unnatürlichen Kräfte": [
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Verderbter Aschenbringer": [
+    {
+      "spieler": "Anouk",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
