@@ -1,0 +1,105 @@
+{
+  "Edelstein der Verjüngung": [
+    {
+      "spieler": "Auxeroise",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Neltharions Träne": [
+    {
+      "spieler": "Ramoni",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Prestors Talisman der Verschwörung": [
+    {
+      "spieler": "Fowen",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Ashjre'thul, Armbrust der Pein": [
+    {
+      "spieler": "Mikau",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Chromatische Stiefel": [
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Deadplated",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Drachenfangzahn-Talisman": [
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Salto",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Energieerfüllte Gamaschen": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drac": [
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
