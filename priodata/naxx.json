@@ -8,7 +8,7 @@
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Perlenpaula",
@@ -91,7 +91,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Reyna",
@@ -142,7 +142,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Umhang der Nekropole": [
@@ -173,7 +173,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Band der unerhörten Gebete": [
@@ -192,7 +192,7 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Bergomann",
@@ -242,7 +242,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Bindungen des Seelenjägers": [
