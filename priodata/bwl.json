@@ -13,17 +13,22 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Ramoni",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Ramoni",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -50,7 +55,7 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Bergomann",
@@ -71,6 +76,21 @@
       "spieler": "Bloodwolf",
       "klasse": "",
       "anzahl": 2
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Salto",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -82,7 +102,7 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Emergencydoc",
@@ -104,7 +124,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Ollebolle",
@@ -114,12 +134,17 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Babuna",
       "klasse": "",
       "anzahl": 3
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Band aus reinem Elementium": [
@@ -146,7 +171,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Chromatische Stiefel": [
@@ -174,6 +199,16 @@
       "spieler": "Bergomann",
       "klasse": "Krieger",
       "anzahl": 5
+    },
+    {
+      "spieler": "Âmbition",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Deadplated",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -187,7 +222,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 15
+      "anzahl": 16
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -270,7 +305,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Energieerfüllte Gamaschen": [
@@ -282,7 +317,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Lok'Amir il Romathis": [
