@@ -6,11 +6,6 @@
       "anzahl": 2
     },
     {
-      "spieler": "Postbotin",
-      "klasse": "Krieger",
-      "anzahl": 12
-    },
-    {
       "spieler": "Perlenpaula",
       "klasse": "Krieger",
       "anzahl": 2
@@ -238,13 +233,7 @@
       "anzahl": 1
     }
   ],
-  "Saphirons linkes Auge": [
-    {
-      "spieler": "Faizi",
-      "klasse": "Hexenmeister",
-      "anzahl": 6
-    }
-  ],
+  "Saphirons linkes Auge": [],
   "Bindungen des Seelenjägers": [
     {
       "spieler": "Petrosilius",
