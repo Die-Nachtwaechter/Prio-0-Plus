@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Stich des Todes": [
@@ -57,7 +57,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Augenstrangkordel": [
@@ -74,12 +74,12 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -111,7 +111,7 @@
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Javi",
@@ -121,6 +121,11 @@
     {
       "spieler": "Deltana",
       "klasse": "Hexenmeister",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Julius",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
@@ -143,7 +148,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Evocíance",
@@ -185,7 +190,7 @@
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Ring des Märtyrers": [
@@ -239,7 +244,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang der Klarsicht": [
@@ -261,7 +266,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Ring des Göttertöters": [
@@ -285,7 +290,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Umhang des Verschlungenen": [
@@ -370,6 +375,11 @@
       "spieler": "Babuna",
       "klasse": "Paladin",
       "anzahl": 1
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
@@ -382,6 +392,11 @@
       "spieler": "Saturo",
       "klasse": "",
       "anzahl": 2
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Armreifen der königlichen Erlösung": [
