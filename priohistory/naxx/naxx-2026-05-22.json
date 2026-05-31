@@ -1,35 +1,42 @@
 {
-  "Saphirons linkes Auge": [
+  "Königsmörder": [
     {
-      "spieler": "Faizi",
-      "klasse": "Hexenmeister",
-      "anzahl": 1
-    }
-  ],
-  "Wappen des Schlächters": [
-    {
-      "spieler": "Ippok",
-      "klasse": "Krieger",
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
       "anzahl": 1
     }
   ],
   "Die zehrende Kälte": [
     {
-      "spieler": "Postbotin",
+      "spieler": "Perlenpaula",
       "klasse": "Krieger",
       "anzahl": 1
     }
   ],
-  "Band der unnatürlichen Kräfte": [
+  "Kuss der Spinne": [
     {
-      "spieler": "Zimzarek",
+      "spieler": "Saturo",
       "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Nekropole": [
+    {
+      "spieler": "Kera",
+      "klasse": "Magier",
       "anzahl": 1
     }
   ],
   "Verderbter Aschenbringer": [
     {
       "spieler": "Anouk",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Auge des Todes": [
+    {
+      "spieler": "Babuna",
       "klasse": "Paladin",
       "anzahl": 1
     }
