@@ -1,0 +1,80 @@
+{
+  "Umhang der Nekropole": [
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Königsmörder": [
+    {
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Wappen des Schlächters": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Postbotin",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Reyna",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der unnatürlichen Kräfte": [
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Verderbter Aschenbringer": [
+    {
+      "spieler": "Anouk",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Auge des Todes": [
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ]
+}
