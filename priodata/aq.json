@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Thrillseeker",
@@ -79,12 +79,12 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -116,7 +116,7 @@
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Javi",
@@ -126,7 +126,7 @@
     {
       "spieler": "Deltana",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Julius",
@@ -153,7 +153,7 @@
     {
       "spieler": "Pepperoni",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Evocíance",
@@ -195,7 +195,7 @@
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Ring des Märtyrers": [
@@ -217,6 +217,11 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
       "anzahl": 1
     }
   ],
@@ -254,7 +259,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Umhang der Klarsicht": [
@@ -276,7 +281,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Ring des Göttertöters": [
@@ -300,7 +305,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Umhang des Verschlungenen": [
@@ -317,7 +322,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Auge von C'Thun": [
@@ -384,6 +389,16 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Zyandra",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Reyna",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ],
