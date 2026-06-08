@@ -1,0 +1,30 @@
+{
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Mana entfachende Kordel": [
+    {
+      "spieler": "Dantholomäos",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Kadyía",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ]
+}
