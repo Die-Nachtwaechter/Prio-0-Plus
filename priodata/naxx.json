@@ -4,11 +4,6 @@
       "spieler": "Ravyn",
       "klasse": "Schurke",
       "anzahl": 2
-    },
-    {
-      "spieler": "Perlenpaula",
-      "klasse": "Krieger",
-      "anzahl": 4
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -253,7 +248,6 @@
       "anzahl": 1
     }
   ],
-  "Saphirons linkes Auge": [],
   "Bindungen des Seelenjägers": [
     {
       "spieler": "Petrosilius",
