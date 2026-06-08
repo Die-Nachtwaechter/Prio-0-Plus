@@ -30,7 +30,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Babuna",
@@ -52,7 +52,7 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Kernhundzahn": [
@@ -65,6 +65,11 @@
   "Mana entfachende Kordel": [
     {
       "spieler": "Halloran",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Dantholomäos",
       "klasse": "Magier",
       "anzahl": 1
     }
@@ -92,7 +97,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Talisman der ephemeren Macht": [
