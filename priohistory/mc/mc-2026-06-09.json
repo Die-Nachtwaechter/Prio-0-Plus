@@ -1,0 +1,49 @@
+{
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Adeliana",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Vicinia",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Mana entfachende Kordel": [
+    {
+      "spieler": "Dantholomäos",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Kadyía",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Wertraud",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
