@@ -18,7 +18,7 @@
     {
       "spieler": "Kartell",
       "klasse": "Schurke",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Thrillseeker",
@@ -79,7 +79,7 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Buffin",
@@ -116,7 +116,7 @@
     {
       "spieler": "Lillianvoss",
       "klasse": "Magier",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Javi",
@@ -126,11 +126,16 @@
     {
       "spieler": "Deltana",
       "klasse": "Hexenmeister",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Julius",
       "klasse": "Magier",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Faizi",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ],
@@ -212,7 +217,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Jandura",
@@ -222,7 +227,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Amulett von Vek'nilash": [
@@ -259,7 +264,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Umhang der Klarsicht": [
@@ -281,7 +286,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 10
+      "anzahl": 11
     }
   ],
   "Ring des Göttertöters": [
@@ -305,7 +310,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Umhang des Verschlungenen": [
@@ -322,7 +327,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Auge von C'Thun": [
