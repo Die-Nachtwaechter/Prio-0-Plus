@@ -22,13 +22,8 @@
     },
     {
       "spieler": "Ramoni",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Ramoni",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 4
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -58,24 +53,9 @@
       "anzahl": 3
     },
     {
-      "spieler": "Salto",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Thorgrimmson",
-      "klasse": "",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Bloodwolf",
-      "klasse": "",
-      "anzahl": 2
-    },
-    {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 5
     },
     {
       "spieler": "Emergencydoc",
@@ -85,12 +65,12 @@
     {
       "spieler": "Salto",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 6
     },
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 3
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -128,13 +108,8 @@
     },
     {
       "spieler": "Babuna",
-      "klasse": "",
-      "anzahl": 3
-    },
-    {
-      "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 5
     },
     {
       "spieler": "Jandura",
