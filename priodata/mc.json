@@ -14,6 +14,11 @@
       "spieler": "Schürkin",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Wertraud",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Band der Ausbrennung": [
@@ -31,6 +36,16 @@
       "spieler": "Babuna",
       "klasse": "Paladin",
       "anzahl": 5
+    },
+    {
+      "spieler": "Adeliana",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Vicinia",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -47,7 +62,7 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Kernhundzahn": [
@@ -66,7 +81,7 @@
     {
       "spieler": "Dantholomäos",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Alte Kernlederhandschuhe": [
@@ -92,13 +107,20 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Talisman der ephemeren Macht": [
     {
       "spieler": "Imodium",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
