@@ -24,6 +24,11 @@
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
       "anzahl": 4
+    },
+    {
+      "spieler": "Dantholomäos",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -262,6 +267,11 @@
     },
     {
       "spieler": "Ambition",
+      "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Harime",
       "klasse": "",
       "anzahl": 1
     }
