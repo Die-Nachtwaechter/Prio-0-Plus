@@ -42,7 +42,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang der Wundnaht": [
@@ -81,12 +81,12 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Reyna",
@@ -98,17 +98,17 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Reyna",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -147,7 +147,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Umhang der Nekropole": [
@@ -159,7 +159,7 @@
     {
       "spieler": "Kera",
       "klasse": "Magier",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Faizi",
@@ -183,7 +183,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Band der unerhörten Gebete": [
@@ -202,7 +202,7 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 17
+      "anzahl": 18
     },
     {
       "spieler": "Bergomann",
@@ -238,7 +238,7 @@
     {
       "spieler": "Zotgrim",
       "klasse": "Jäger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Gespensterklinge": [
