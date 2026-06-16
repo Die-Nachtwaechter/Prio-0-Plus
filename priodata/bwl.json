@@ -13,12 +13,12 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Ramoni",
@@ -50,12 +50,12 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Emergencydoc",
@@ -65,12 +65,12 @@
     {
       "spieler": "Salto",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -114,17 +114,17 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Xarfai",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band aus reinem Elementium": [
@@ -156,7 +156,7 @@
     {
       "spieler": "Adeliana",
       "klasse": "Druide",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Chromatische Stiefel": [
@@ -193,7 +193,7 @@
     {
       "spieler": "Deadplated",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -212,7 +212,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 18
+      "anzahl": 19
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -290,7 +290,7 @@
     {
       "spieler": "Thrillseeker",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Energieerfüllte Gamaschen": [
@@ -304,7 +304,7 @@
     {
       "spieler": "Medinait",
       "klasse": "",
-      "anzahl": 4
+      "anzahl": 5
     }
   ]
 }
