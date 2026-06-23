@@ -79,12 +79,17 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
       "anzahl": 5
+    },
+    {
+      "spieler": "Magegnom",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -126,7 +131,7 @@
     {
       "spieler": "Deltana",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Julius",
@@ -200,7 +205,7 @@
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Ring des Märtyrers": [
@@ -217,7 +222,7 @@
     {
       "spieler": "Auxeroise",
       "klasse": "Druide",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Jandura",
@@ -227,7 +232,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Amulett von Vek'nilash": [
@@ -264,7 +269,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Umhang der Klarsicht": [
@@ -286,7 +291,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 11
+      "anzahl": 12
     }
   ],
   "Ring des Göttertöters": [
@@ -310,7 +315,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Umhang des Verschlungenen": [
@@ -327,7 +332,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Auge von C'Thun": [
@@ -405,6 +410,11 @@
       "spieler": "Reyna",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Nerethil",
+      "klasse": "Druide",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
@@ -440,6 +450,13 @@
     {
       "spieler": "Giftpilz",
       "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Vollstreckungsarmschienen der Qiraji": [
+    {
+      "spieler": "Snow",
+      "klasse": "Druide",
       "anzahl": 1
     }
   ]
