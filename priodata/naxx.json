@@ -9,6 +9,11 @@
       "spieler": "Skadi",
       "klasse": "",
       "anzahl": 1
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -47,7 +52,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Umhang der Wundnaht": [
@@ -91,7 +96,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 13
+      "anzahl": 14
     },
     {
       "spieler": "Reyna",
@@ -103,17 +108,17 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Postbotin",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Reyna",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -131,6 +136,11 @@
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 3
+    },
+    {
+      "spieler": "Twarves",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Wappen des Schlächters": [
@@ -152,7 +162,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Umhang der Nekropole": [
@@ -188,7 +198,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Band der unerhörten Gebete": [
@@ -207,7 +217,7 @@
     {
       "spieler": "Anouk",
       "klasse": "Paladin",
-      "anzahl": 18
+      "anzahl": 19
     },
     {
       "spieler": "Bergomann",
