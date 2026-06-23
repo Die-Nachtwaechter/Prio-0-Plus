@@ -77,11 +77,6 @@
       "anzahl": 10
     },
     {
-      "spieler": "Wilfried",
-      "klasse": "Hexenmeister",
-      "anzahl": 10
-    },
-    {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
       "anzahl": 5
@@ -409,11 +404,6 @@
     {
       "spieler": "Reyna",
       "klasse": "Krieger",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Nerethil",
-      "klasse": "Druide",
       "anzahl": 1
     }
   ],
