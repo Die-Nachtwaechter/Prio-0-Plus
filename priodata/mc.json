@@ -18,7 +18,7 @@
     {
       "spieler": "Wertraud",
       "klasse": "Schurke",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band der Ausbrennung": [
@@ -52,7 +52,7 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Kernhundzahn": [
@@ -97,7 +97,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     }
   ],
   "Talisman der ephemeren Macht": [
@@ -110,6 +110,11 @@
   "Gurt des Ansturms": [
     {
       "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Tensorr",
       "klasse": "Krieger",
       "anzahl": 1
     }
