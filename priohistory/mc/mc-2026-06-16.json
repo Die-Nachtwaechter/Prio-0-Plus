@@ -1,0 +1,30 @@
+{
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Tensorr",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Kadyía",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Wertraud",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
