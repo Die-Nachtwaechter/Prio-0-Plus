@@ -18,7 +18,7 @@
     {
       "spieler": "Wertraud",
       "klasse": "Schurke",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Band der Ausbrennung": [
@@ -52,7 +52,12 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 7
+      "anzahl": 8
+    },
+    {
+      "spieler": "Dantholomäos",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Kernhundzahn": [
@@ -97,7 +102,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 11
+      "anzahl": 12
     }
   ],
   "Talisman der ephemeren Macht": [
@@ -111,7 +116,7 @@
     {
       "spieler": "Harime",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
