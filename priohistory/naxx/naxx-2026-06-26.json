@@ -1,0 +1,73 @@
+{
+  "Die gebundene Essenz Saphirons": [
+    {
+      "spieler": "Twarves",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Zquare",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Wappen des Schlächters": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Reyna",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der unnatürlichen Kräfte": [
+    {
+      "spieler": "Zimzarek",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Auge des Todes": [
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
