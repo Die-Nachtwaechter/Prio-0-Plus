@@ -13,7 +13,7 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -52,7 +52,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Umhang der Wundnaht": [
@@ -96,7 +96,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Reyna",
@@ -108,7 +108,7 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Postbotin",
@@ -118,7 +118,7 @@
     {
       "spieler": "Reyna",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -140,7 +140,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Wappen des Schlächters": [
@@ -162,7 +162,7 @@
     {
       "spieler": "Ippok",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     }
   ],
   "Umhang der Nekropole": [
@@ -198,7 +198,7 @@
     {
       "spieler": "Zimzarek",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Band der unerhörten Gebete": [
@@ -262,6 +262,23 @@
     {
       "spieler": "Petrosilius",
       "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Perlenpaula",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Zquare",
+      "klasse": "Krieger",
       "anzahl": 1
     }
   ]
