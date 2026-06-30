@@ -85,6 +85,11 @@
       "spieler": "Magegnom",
       "klasse": "Magier",
       "anzahl": 1
+    },
+    {
+      "spieler": "Excelsion",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -131,10 +136,15 @@
     {
       "spieler": "Julius",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Faizi",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Wilfried",
       "klasse": "Hexenmeister",
       "anzahl": 1
     }
@@ -200,7 +210,7 @@
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Ring des Märtyrers": [
@@ -227,7 +237,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Amulett von Vek'nilash": [
@@ -264,7 +274,7 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Umhang der Klarsicht": [
@@ -286,7 +296,7 @@
     {
       "spieler": "Solax",
       "klasse": "Priester",
-      "anzahl": 12
+      "anzahl": 13
     }
   ],
   "Ring des Göttertöters": [
@@ -310,7 +320,7 @@
     {
       "spieler": "Yunnchen",
       "klasse": "Priester",
-      "anzahl": 10
+      "anzahl": 11
     }
   ],
   "Umhang des Verschlungenen": [
@@ -327,7 +337,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 10
+      "anzahl": 11
     }
   ],
   "Auge von C'Thun": [
@@ -447,7 +457,7 @@
     {
       "spieler": "Snow",
       "klasse": "Druide",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
