@@ -23,4 +23,4 @@ bwl-2026-05-19.json
 bwl-2026-06-02.csv
 bwl-2026-06-02.json
 bwl-2026-06-16.json
-bwl-2026-06-23.csv
+bwl-2026-06-23.json
