@@ -1,0 +1,105 @@
+{
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Adeliana",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Neltharions Träne": [
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Dantholomäos",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Ashjre'thul, Armbrust der Pein": [
+    {
+      "spieler": "Mikau",
+      "klasse": "Jäger",
+      "anzahl": 1
+    }
+  ],
+  "Drachenfangzahn-Talisman": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Salto",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Chromatische Stiefel": [
+    {
+      "spieler": "Deadplated",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Chromatisch gehärtetes Schwert": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein des Gedankensprungs": [
+    {
+      "spieler": "Excelsion",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein der Verjüngung": [
+    {
+      "spieler": "Jandura",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Xarfai",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drac": [
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
