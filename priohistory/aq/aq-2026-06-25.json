@@ -1,0 +1,70 @@
+{
+  "Vollstreckungsarmschienen der Qiraji": [
+    {
+      "spieler": "Snow",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Amulett von Vek'nilash": [
+    {
+      "spieler": "Twarves",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Stulpen der dunklen Stürme": [
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Julius",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Augenstrangkordel": [
+    {
+      "spieler": "Excelsion",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Ring des Märtyrers": [
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Umhang des Verschlungenen": [
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Umhang der Klarsicht": [
+    {
+      "spieler": "Solax",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Szepter des falschen Propheten": [
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Jom Gabbar": [
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
