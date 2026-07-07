@@ -18,7 +18,7 @@
     {
       "spieler": "Wertraud",
       "klasse": "Schurke",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Band der Ausbrennung": [
@@ -36,6 +36,16 @@
       "spieler": "Babuna",
       "klasse": "Paladin",
       "anzahl": 5
+    },
+    {
+      "spieler": "Terion",
+      "klasse": "Priester",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Yunnchen",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ],
   "Halsschmuck des Feuerlords": [
@@ -57,7 +67,7 @@
     {
       "spieler": "Dantholomäos",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Kernhundzahn": [
@@ -102,7 +112,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 13
+      "anzahl": 14
     }
   ],
   "Talisman der ephemeren Macht": [
@@ -110,7 +120,23 @@
       "spieler": "Imodium",
       "klasse": "Hexenmeister",
       "anzahl": 1
+    },
+    {
+      "spieler": "Bøøstinatrix",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
-  "Gurt des Ansturms": []
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Ariovist",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ozzi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ]
 }
