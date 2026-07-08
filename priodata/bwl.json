@@ -13,20 +13,25 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Dantholomäos",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Medinait",
+      "klasse": "",
+      "anzahl": 2
+    },
+    {
+      "spieler": "Vetron",
       "klasse": "",
       "anzahl": 1
     }
@@ -60,7 +65,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Emergencydoc",
@@ -75,7 +80,12 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 6
+      "anzahl": 7
+    },
+    {
+      "spieler": "Snow",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -88,6 +98,11 @@
       "spieler": "Fowen",
       "klasse": "Jäger",
       "anzahl": 8
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Edelstein der Verjüngung": [
@@ -114,7 +129,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Yunnchen",
@@ -124,7 +139,7 @@
     {
       "spieler": "Terion",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Band aus reinem Elementium": [
@@ -156,7 +171,7 @@
     {
       "spieler": "Adeliana",
       "klasse": "Druide",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Babuna",
@@ -198,7 +213,7 @@
     {
       "spieler": "Deadplated",
       "klasse": "Krieger",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -217,7 +232,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 22
+      "anzahl": 23
     }
   ],
   "Armschienen der arkanen Präzision": [
