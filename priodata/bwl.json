@@ -11,11 +11,6 @@
       "anzahl": 7
     },
     {
-      "spieler": "Wilfried",
-      "klasse": "Hexenmeister",
-      "anzahl": 12
-    },
-    {
       "spieler": "Arie",
       "klasse": "Magier",
       "anzahl": 8
@@ -274,16 +269,6 @@
       "spieler": "Ambition",
       "klasse": "",
       "anzahl": 1
-    },
-    {
-      "spieler": "Harime",
-      "klasse": "",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Harime",
-      "klasse": "Krieger",
-      "anzahl": 2
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
