@@ -18,7 +18,7 @@
     {
       "spieler": "Wertraud",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Band der Ausbrennung": [
@@ -40,7 +40,7 @@
     {
       "spieler": "Terion",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Yunnchen",
@@ -62,12 +62,17 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Dantholomäos",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
+    },
+    {
+      "spieler": "Vetron",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Kernhundzahn": [
@@ -112,7 +117,12 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 14
+      "anzahl": 15
+    },
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Talisman der ephemeren Macht": [
@@ -131,12 +141,12 @@
     {
       "spieler": "Ariovist",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Ozzi",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
