@@ -13,7 +13,7 @@
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Arie",
@@ -23,7 +23,7 @@
     {
       "spieler": "Ramoni",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Dantholomäos",
@@ -60,17 +60,17 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Salto",
@@ -80,7 +80,7 @@
     {
       "spieler": "Bloodwolf",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -119,12 +119,12 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Xarfai",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Yunnchen",
@@ -161,12 +161,12 @@
     {
       "spieler": "Adeliana",
       "klasse": "Druide",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Chromatische Stiefel": [
@@ -203,7 +203,7 @@
     {
       "spieler": "Deadplated",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -222,7 +222,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 21
+      "anzahl": 22
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -283,7 +283,7 @@
     {
       "spieler": "Harime",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Maladath, Runenverzierte Klinge des schwarzen Drac": [
@@ -300,7 +300,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Akhira",
