@@ -79,12 +79,12 @@
     {
       "spieler": "Buffin",
       "klasse": "Hexenmeister",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Magegnom",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Excelsion",
@@ -131,12 +131,12 @@
     {
       "spieler": "Deltana",
       "klasse": "Hexenmeister",
-      "anzahl": 7
+      "anzahl": 8
     },
     {
       "spieler": "Julius",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Faizi",
@@ -206,6 +206,11 @@
       "spieler": "Laundry",
       "klasse": "Jäger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Fowen",
+      "klasse": "Jäger",
+      "anzahl": 1
     }
   ],
   "Ring des Märtyrers": [
@@ -232,7 +237,7 @@
     {
       "spieler": "Babuna",
       "klasse": "Paladin",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Amulett von Vek'nilash": [
@@ -269,11 +274,16 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 9
+      "anzahl": 10
     },
     {
       "spieler": "Wilfried",
       "klasse": "",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Wilfried",
+      "klasse": "Hexenmeister",
       "anzahl": 1
     }
   ],
@@ -332,7 +342,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 12
+      "anzahl": 13
     }
   ],
   "Auge von C'Thun": [
@@ -452,7 +462,12 @@
     {
       "spieler": "Snow",
       "klasse": "Druide",
-      "anzahl": 3
+      "anzahl": 4
+    },
+    {
+      "spieler": "Jôncenà",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Knöigliches Szepter von Veklor": [
