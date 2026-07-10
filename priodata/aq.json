@@ -77,11 +77,6 @@
       "anzahl": 10
     },
     {
-      "spieler": "Buffin",
-      "klasse": "Hexenmeister",
-      "anzahl": 6
-    },
-    {
       "spieler": "Magegnom",
       "klasse": "Magier",
       "anzahl": 3
@@ -233,11 +228,6 @@
       "spieler": "Jandura",
       "klasse": "Priester",
       "anzahl": 1
-    },
-    {
-      "spieler": "Babuna",
-      "klasse": "Paladin",
-      "anzahl": 6
     }
   ],
   "Amulett von Vek'nilash": [
@@ -278,13 +268,8 @@
     },
     {
       "spieler": "Wilfried",
-      "klasse": "",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Umhang der Klarsicht": [
@@ -459,11 +444,6 @@
     }
   ],
   "Vollstreckungsarmschienen der Qiraji": [
-    {
-      "spieler": "Snow",
-      "klasse": "Druide",
-      "anzahl": 4
-    },
     {
       "spieler": "Jôncenà",
       "klasse": "Schurke",
