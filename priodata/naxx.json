@@ -13,7 +13,7 @@
     {
       "spieler": "Skadi",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -91,12 +91,12 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 14
+      "anzahl": 15
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 16
+      "anzahl": 17
     },
     {
       "spieler": "Reyna",
@@ -108,7 +108,7 @@
     {
       "spieler": "Saturo",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Postbotin",
@@ -211,6 +211,11 @@
       "spieler": "Babuna",
       "klasse": "",
       "anzahl": 1
+    },
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
     }
   ],
   "Verderbter Aschenbringer": [
@@ -274,7 +279,7 @@
     {
       "spieler": "Bergomann",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Perlenpaula",
@@ -284,7 +289,14 @@
     {
       "spieler": "Zquare",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
+    }
+  ],
+  "Hammer des wirbelnden Nethers": [
+    {
+      "spieler": "Bimm",
+      "klasse": "Priester",
+      "anzahl": 1
     }
   ]
 }
