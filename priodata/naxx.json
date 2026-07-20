@@ -91,7 +91,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 17
+      "anzahl": 18
     },
     {
       "spieler": "Reyna",
@@ -179,7 +179,7 @@
     {
       "spieler": "Ramoni",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -281,6 +281,5 @@
       "klasse": "Krieger",
       "anzahl": 3
     }
-  ],
-  "Hammer des wirbelnden Nethers": []
+  ]
 }
