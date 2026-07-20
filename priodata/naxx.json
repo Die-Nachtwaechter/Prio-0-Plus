@@ -7,11 +7,6 @@
     },
     {
       "spieler": "Skadi",
-      "klasse": "",
-      "anzahl": 2
-    },
-    {
-      "spieler": "Skadi",
       "klasse": "Krieger",
       "anzahl": 3
     }
@@ -209,11 +204,6 @@
     },
     {
       "spieler": "Babuna",
-      "klasse": "",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Babuna",
       "klasse": "Paladin",
       "anzahl": 1
     }
@@ -292,11 +282,5 @@
       "anzahl": 3
     }
   ],
-  "Hammer des wirbelnden Nethers": [
-    {
-      "spieler": "Bimm",
-      "klasse": "Priester",
-      "anzahl": 1
-    }
-  ]
+  "Hammer des wirbelnden Nethers": []
 }
