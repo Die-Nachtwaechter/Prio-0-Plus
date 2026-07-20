@@ -1,0 +1,54 @@
+{
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Bergomann",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Zquare",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Saturo",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der unerhörten Gebete": [
+    {
+      "spieler": "Babuna",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Hammer des wirbelnden Nethers": [
+    {
+      "spieler": "Bimm",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ]
+}
