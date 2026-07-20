@@ -1,0 +1,61 @@
+{
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Vetron",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Ariovist",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ozzi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Talisman der ephemeren Macht": [
+    {
+      "spieler": "Bøøstinatrix",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Wilde Wachstums-Schiftung": [
+    {
+      "spieler": "Harryhaller",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ],
+  "Band der Ausbrennung": [
+    {
+      "spieler": "Terion",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Band von Accuria": [
+    {
+      "spieler": "Wertraud",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
