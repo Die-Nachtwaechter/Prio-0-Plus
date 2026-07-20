@@ -1,0 +1,79 @@
+{
+  "Band aus reinem Elementium": [
+    {
+      "spieler": "Adeliana",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Drachenfangzahn-Talisman": [
+    {
+      "spieler": "Snow",
+      "klasse": "Druide",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bloodwolf",
+      "klasse": "Schurke",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Neltharions Träne": [
+    {
+      "spieler": "Vetron",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Arie",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Dantholomäos",
+      "klasse": "Magier",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Medinait",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Chromatische Stiefel": [
+    {
+      "spieler": "Deadplated",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Ozzi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Maladath, Runenverzierte Klinge des schwarzen Drac": [
+    {
+      "spieler": "Harime",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Edelstein der Verjüngung": [
+    {
+      "spieler": "Terion",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ]
+}
