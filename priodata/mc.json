@@ -18,7 +18,7 @@
     {
       "spieler": "Wertraud",
       "klasse": "Schurke",
-      "anzahl": 7
+      "anzahl": 8
     }
   ],
   "Band der Ausbrennung": [
@@ -67,12 +67,12 @@
     {
       "spieler": "Dantholomäos",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Vetron",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Kernhundzahn": [
@@ -92,6 +92,11 @@
       "spieler": "Dantholomäos",
       "klasse": "Magier",
       "anzahl": 2
+    },
+    {
+      "spieler": "Atanamir",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Alte Kernlederhandschuhe": [
@@ -117,7 +122,7 @@
     {
       "spieler": "Harime",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Talisman der ephemeren Macht": [
@@ -129,26 +134,26 @@
     {
       "spieler": "Bøøstinatrix",
       "klasse": "Magier",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Gurt des Ansturms": [
     {
       "spieler": "Ariovist",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Ozzi",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Wilde Wachstums-Schiftung": [
     {
       "spieler": "Harryhaller",
       "klasse": "Paladin",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
