@@ -118,13 +118,7 @@
       "anzahl": 3
     }
   ],
-  "Ring des rasanten Schlags": [
-    {
-      "spieler": "Harime",
-      "klasse": "Krieger",
-      "anzahl": 3
-    }
-  ],
+  "Ring des rasanten Schlags": [],
   "Talisman der ephemeren Macht": [
     {
       "spieler": "Imodium",
@@ -138,11 +132,6 @@
     }
   ],
   "Gurt des Ansturms": [
-    {
-      "spieler": "Ariovist",
-      "klasse": "Krieger",
-      "anzahl": 4
-    },
     {
       "spieler": "Ozzi",
       "klasse": "Krieger",
