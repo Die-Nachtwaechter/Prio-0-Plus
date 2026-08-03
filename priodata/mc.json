@@ -18,7 +18,7 @@
     {
       "spieler": "Wertraud",
       "klasse": "Schurke",
-      "anzahl": 8
+      "anzahl": 9
     }
   ],
   "Band der Ausbrennung": [
@@ -62,7 +62,7 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Dantholomäos",
@@ -72,7 +72,7 @@
     {
       "spieler": "Vetron",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Kernhundzahn": [
@@ -118,7 +118,13 @@
       "anzahl": 3
     }
   ],
-  "Ring des rasanten Schlags": [],
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Ariovist",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
   "Talisman der ephemeren Macht": [
     {
       "spieler": "Imodium",
@@ -128,21 +134,21 @@
     {
       "spieler": "Bøøstinatrix",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Gurt des Ansturms": [
     {
       "spieler": "Ozzi",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ],
   "Wilde Wachstums-Schiftung": [
     {
       "spieler": "Harryhaller",
       "klasse": "Paladin",
-      "anzahl": 2
+      "anzahl": 3
     }
   ]
 }
