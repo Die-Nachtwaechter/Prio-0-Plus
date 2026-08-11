@@ -144,11 +144,6 @@
       "anzahl": 6
     },
     {
-      "spieler": "Faizi",
-      "klasse": "Hexenmeister",
-      "anzahl": 3
-    },
-    {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
       "anzahl": 1
@@ -179,11 +174,6 @@
       "spieler": "Evocíance",
       "klasse": "Krieger",
       "anzahl": 3
-    },
-    {
-      "spieler": "Ozzi",
-      "klasse": "Krieger",
-      "anzahl": 1
     }
   ],
   "Jom Gabbar": [
@@ -429,11 +419,6 @@
     {
       "spieler": "Vetron",
       "klasse": "Hexenmeister",
-      "anzahl": 1
-    },
-    {
-      "spieler": "Bøøstinatrix",
-      "klasse": "Magier",
       "anzahl": 1
     }
   ],
