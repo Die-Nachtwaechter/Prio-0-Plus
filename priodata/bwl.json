@@ -199,11 +199,6 @@
       "anzahl": 6
     },
     {
-      "spieler": "Adeliana",
-      "klasse": "Druide",
-      "anzahl": 9
-    },
-    {
       "spieler": "Babuna",
       "klasse": "Paladin",
       "anzahl": 2
@@ -263,13 +258,7 @@
       "anzahl": 2
     }
   ],
-  "Ashjre'thul, Armbrust der Pein": [
-    {
-      "spieler": "Mikau",
-      "klasse": "Jäger",
-      "anzahl": 25
-    }
-  ],
+  "Ashjre'thul, Armbrust der Pein": [],
   "Armschienen der arkanen Präzision": [
     {
       "spieler": "Joi",
