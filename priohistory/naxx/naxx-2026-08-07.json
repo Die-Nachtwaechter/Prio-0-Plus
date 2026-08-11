@@ -1,0 +1,66 @@
+{
+  "Umhang der Nekropole": [
+    {
+      "spieler": "Twarves",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    }
+  ],
+  "Wappen des Schlächters": [
+    {
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jóhn",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Elbrus",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Reyna",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Zquare",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Band der unnatürlichen Kräfte": [
+    {
+      "spieler": "Krüppler",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
