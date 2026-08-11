@@ -9,6 +9,16 @@
       "spieler": "Skadi",
       "klasse": "Krieger",
       "anzahl": 3
+    },
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Edelstein der gefangenen Unschuld": [
@@ -86,12 +96,12 @@
     {
       "spieler": "Elbrus",
       "klasse": "Krieger",
-      "anzahl": 15
+      "anzahl": 16
     },
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 18
+      "anzahl": 19
     },
     {
       "spieler": "Reyna",
@@ -113,7 +123,7 @@
     {
       "spieler": "Reyna",
       "klasse": "Krieger",
-      "anzahl": 5
+      "anzahl": 6
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -158,6 +168,16 @@
       "spieler": "Zotgrim",
       "klasse": "",
       "anzahl": 1
+    },
+    {
+      "spieler": "Zotgrim",
+      "klasse": "Jäger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Jóhn",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Umhang der Nekropole": [
@@ -180,6 +200,11 @@
       "spieler": "Ramoni",
       "klasse": "",
       "anzahl": 2
+    },
+    {
+      "spieler": "Twarves",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Zauberstab der Heimsuchung": [
@@ -194,6 +219,11 @@
       "spieler": "Elbrus",
       "klasse": "Krieger",
       "anzahl": 9
+    },
+    {
+      "spieler": "Krüppler",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Band der unerhörten Gebete": [
@@ -279,7 +309,7 @@
     {
       "spieler": "Zquare",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     }
   ]
 }
