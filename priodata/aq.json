@@ -84,12 +84,17 @@
     {
       "spieler": "Magegnom",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Excelsion",
       "klasse": "Magier",
-      "anzahl": 3
+      "anzahl": 4
+    },
+    {
+      "spieler": "Deltana",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
     }
   ],
   "Stulpen der dunklen Stürme": [
@@ -141,7 +146,7 @@
     {
       "spieler": "Faizi",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Wilfried",
@@ -174,6 +179,11 @@
       "spieler": "Evocíance",
       "klasse": "Krieger",
       "anzahl": 3
+    },
+    {
+      "spieler": "Ozzi",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Jom Gabbar": [
@@ -269,12 +279,12 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Umhang der Klarsicht": [
@@ -332,7 +342,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 13
+      "anzahl": 14
     }
   ],
   "Auge von C'Thun": [
@@ -410,6 +420,16 @@
       "spieler": "Reyna",
       "klasse": "Krieger",
       "anzahl": 1
+    },
+    {
+      "spieler": "Vetron",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Bøøstinatrix",
+      "klasse": "Magier",
+      "anzahl": 1
     }
   ],
   "Abzeichen der Schwarmwache": [
@@ -454,6 +474,13 @@
       "spieler": "Ramoni",
       "klasse": "",
       "anzahl": 2
+    }
+  ],
+  "Uralter Qirajizerfetzer": [
+    {
+      "spieler": "Emergencydoc",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ]
 }
