@@ -23,7 +23,7 @@
     {
       "spieler": "Snow",
       "klasse": "",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Emergencydoc",
@@ -84,12 +84,12 @@
     {
       "spieler": "Magegnom",
       "klasse": "Magier",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Excelsion",
       "klasse": "Magier",
-      "anzahl": 4
+      "anzahl": 5
     },
     {
       "spieler": "Deltana",
@@ -220,7 +220,12 @@
     {
       "spieler": "Fowen",
       "klasse": "Jäger",
-      "anzahl": 2
+      "anzahl": 3
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "",
+      "anzahl": 1
     }
   ],
   "Ring des Märtyrers": [
@@ -279,12 +284,12 @@
     {
       "spieler": "Twarves",
       "klasse": "Hexenmeister",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Wilfried",
       "klasse": "Hexenmeister",
-      "anzahl": 3
+      "anzahl": 4
     }
   ],
   "Umhang der Klarsicht": [
@@ -342,7 +347,7 @@
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 14
+      "anzahl": 15
     }
   ],
   "Auge von C'Thun": [
@@ -468,12 +473,11 @@
       "anzahl": 1
     }
   ],
-  "Vollstreckungsarmschienen der Qiraji": [],
   "Knöigliches Szepter von Veklor": [
     {
       "spieler": "Ramoni",
       "klasse": "",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Uralter Qirajizerfetzer": [
