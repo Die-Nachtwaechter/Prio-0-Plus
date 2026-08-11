@@ -13,7 +13,7 @@
     {
       "spieler": "Arie",
       "klasse": "Magier",
-      "anzahl": 11
+      "anzahl": 12
     },
     {
       "spieler": "Ramoni",
@@ -23,7 +23,7 @@
     {
       "spieler": "Dantholomäos",
       "klasse": "Magier",
-      "anzahl": 6
+      "anzahl": 7
     },
     {
       "spieler": "Medinait",
@@ -38,17 +38,17 @@
     {
       "spieler": "Vetron",
       "klasse": "Hexenmeister",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Medinait",
       "klasse": "Priester",
-      "anzahl": 2
+      "anzahl": 3
     },
     {
       "spieler": "Bøøstinatrix",
       "klasse": "Magier",
-      "anzahl": 1
+      "anzahl": 2
     }
   ],
   "Drachenfangzahn-Talisman": [
@@ -80,12 +80,12 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 12
+      "anzahl": 13
     },
     {
       "spieler": "Emergencydoc",
       "klasse": "Schurke",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Salto",
@@ -106,6 +106,11 @@
       "spieler": "Snow",
       "klasse": "Druide",
       "anzahl": 2
+    },
+    {
+      "spieler": "Thrillseeker",
+      "klasse": "Schurke",
+      "anzahl": 1
     }
   ],
   "Prestors Talisman der Verschwörung": [
@@ -149,7 +154,7 @@
     {
       "spieler": "Jandura",
       "klasse": "Priester",
-      "anzahl": 5
+      "anzahl": 6
     },
     {
       "spieler": "Yunnchen",
@@ -196,7 +201,7 @@
     {
       "spieler": "Adeliana",
       "klasse": "Druide",
-      "anzahl": 8
+      "anzahl": 9
     },
     {
       "spieler": "Babuna",
@@ -238,12 +243,12 @@
     {
       "spieler": "Deadplated",
       "klasse": "Krieger",
-      "anzahl": 10
+      "anzahl": 11
     },
     {
       "spieler": "Ozzi",
       "klasse": "Krieger",
-      "anzahl": 2
+      "anzahl": 3
     }
   ],
   "Edelstein des Gedankensprungs": [
@@ -262,7 +267,7 @@
     {
       "spieler": "Mikau",
       "klasse": "Jäger",
-      "anzahl": 24
+      "anzahl": 25
     }
   ],
   "Armschienen der arkanen Präzision": [
@@ -330,7 +335,7 @@
     {
       "spieler": "Âmbition",
       "klasse": "Krieger",
-      "anzahl": 3
+      "anzahl": 4
     },
     {
       "spieler": "Akhira",
@@ -371,7 +376,7 @@
     {
       "spieler": "Kadyía",
       "klasse": "Priester",
-      "anzahl": 1
+      "anzahl": 2
     }
   ]
 }
