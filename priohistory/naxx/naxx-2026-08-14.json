@@ -1,0 +1,42 @@
+{
+  "Iblis, Klinge des gefallenen Engels": [
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Kuss der Spinne": [
+    {
+      "spieler": "Reyna",
+      "klasse": "Krieger",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Die zehrende Kälte": [
+    {
+      "spieler": "Thorgrimmson",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Nerubischer Sklavenjäger": [
+    {
+      "spieler": "Zquare",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gressil, Vorbote des Untergangs": [
+    {
+      "spieler": "Relentless",
+      "klasse": "Schurke",
+      "anzahl": 1
+    }
+  ]
+}
