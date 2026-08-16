@@ -13,7 +13,7 @@
     {
       "spieler": "Thorgrimmson",
       "klasse": "Krieger",
-      "anzahl": 1
+      "anzahl": 2
     },
     {
       "spieler": "Thrillseeker",
@@ -101,7 +101,7 @@
     {
       "spieler": "Relentless",
       "klasse": "Schurke",
-      "anzahl": 19
+      "anzahl": 20
     },
     {
       "spieler": "Reyna",
@@ -123,7 +123,12 @@
     {
       "spieler": "Reyna",
       "klasse": "Krieger",
-      "anzahl": 6
+      "anzahl": 7
+    },
+    {
+      "spieler": "Skadi",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Die gebundene Essenz Saphirons": [
@@ -260,6 +265,11 @@
       "spieler": "Relentless",
       "klasse": "Schurke",
       "anzahl": 1
+    },
+    {
+      "spieler": "Ippok",
+      "klasse": "Krieger",
+      "anzahl": 1
     }
   ],
   "Verdammnisbote": [
@@ -309,7 +319,7 @@
     {
       "spieler": "Zquare",
       "klasse": "Krieger",
-      "anzahl": 4
+      "anzahl": 5
     }
   ]
 }
