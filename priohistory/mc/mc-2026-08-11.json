@@ -1,0 +1,49 @@
+{
+  "Band von Accuria": [
+    {
+      "spieler": "Octa",
+      "klasse": "Druide",
+      "anzahl": 1
+    }
+  ],
+  "Halsschmuck des Feuerlords": [
+    {
+      "spieler": "Vetron",
+      "klasse": "Hexenmeister",
+      "anzahl": 1
+    },
+    {
+      "spieler": "Kadyía",
+      "klasse": "Priester",
+      "anzahl": 1
+    }
+  ],
+  "Ring des rasanten Schlags": [
+    {
+      "spieler": "Ariovist",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Gurt des Ansturms": [
+    {
+      "spieler": "Ozzi",
+      "klasse": "Krieger",
+      "anzahl": 1
+    }
+  ],
+  "Talisman der ephemeren Macht": [
+    {
+      "spieler": "Bøøstinatrix",
+      "klasse": "Magier",
+      "anzahl": 1
+    }
+  ],
+  "Wilde Wachstums-Schiftung": [
+    {
+      "spieler": "Utus",
+      "klasse": "Paladin",
+      "anzahl": 1
+    }
+  ]
+}
